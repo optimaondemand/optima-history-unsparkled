@@ -1,0 +1,662 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Austin Becomes a Tech Town</title>
+<script type="application/json" id="lesson-meta">
+{
+  "schema_version": "0.1",
+  "id": "texas-wwii-postwar/austin-becomes-a-tech-town",
+  "title": "Austin Becomes a Tech Town",
+  "summary": "Austin before tech (government and the University of Texas); the story of Texas Instruments from Geophysical Service to the integrated circuit and the TI calculators; Texas Instruments, IBM and Motorola in Austin; the Microelectronics and Computer Technology Corporation of 1983 and the Japanese 'fifth generation' challenge; Doug Lenat and Cyc; Ramanathan Guha from MCC to RDF, RSS, the semantic web and Google Custom Search; Michael Dell and Dell Computer, 1984 through the 2000s; Samsung, Apple, Oracle, Tesla and Alphabet; UT-Austin as the talent pipeline; growth and its costs.",
+  "period": {
+    "start": "1960",
+    "end": "2021"
+  },
+  "anchor_date": "1983",
+  "grade_band": "6-8",
+  "estimated_minutes": 40,
+  "primary_sources": [],
+  "widgets": [],
+  "courses": [
+    "txhist7-spring"
+  ],
+  "standards": [
+    {
+      "framework": "TX-TEKS-SS",
+      "edition": "19 TAC 113.19(b)",
+      "codes": [
+        "7.7(B)",
+        "7.19(B)",
+        "7.19(C)"
+      ],
+      "basis": "cited-by-course",
+      "reviewed": "2026-10-05"
+    }
+  ],
+  "status": "draft"
+}
+</script>
+<style>
+    body { margin: 0; padding: 0; font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif; background: #f4f6fa; }
+    .canvas-frame { max-width: 1100px; margin: 0 auto; background: #ffffff; box-shadow: 0 2px 8px rgba(0,0,0,0.08); }
+
+    .gloss-audio { display: inline-flex; align-items: center; justify-content: center; border: none; background: none; cursor: pointer; font-size: 14px; padding: 0 4px; vertical-align: middle; color: #1B6A94; }
+    .gloss-audio:hover { color: #0E1C42; }
+
+    .optima-widget { background: linear-gradient(135deg, #E8F6FB 0%, #F4F9FC 100%); border: 1px solid #C5DCE5; border-left: 5px solid #2196D0; border-radius: 8px; padding: 18px 22px; margin: 18px 0; }
+    .widget-kicker { font-size: 11px; color: #1B6A94; margin-bottom: 10px; letter-spacing: 0.4px; }
+    .widget-question { font-size: 17px; color: #0E1C42; margin-bottom: 14px; line-height: 1.55; }
+    .widget-row { background: #FFFFFF; border: 1px solid #D0D9E8; border-radius: 6px; padding: 12px 14px; margin-bottom: 10px; }
+    .widget-row-prompt { font-size: 15px; color: #0E1C42; margin-bottom: 8px; line-height: 1.5; font-style: italic; }
+    .widget-options { display: flex; flex-wrap: wrap; gap: 8px; }
+    .widget-options button { background: #FFFFFF; border: 1.5px solid #D0D9E8; border-radius: 8px; padding: 8px 14px; font-size: 14px; color: #0E1C42; cursor: pointer; transition: all 0.15s; font-family: inherit; }
+    .widget-options button:hover { background: #F4F6FA; border-color: #55C8E8; }
+    .widget-options button.selected { background: #0E1C42; color: #FFFFFF; border-color: #0E1C42; }
+    .widget-options button.correct { background: #D8F0DD; border-color: #2A9D5C; color: #1A6B3D; }
+    .widget-options button.incorrect { background: #FDECEC; border-color: #C0392B; color: #8A1F16; }
+    .widget-feedback { background: #FFFFFF; border-left: 3px solid #C7922C; padding: 10px 14px; font-size: 15px; color: #1a2340; line-height: 1.55; margin: 10px 0; display: none; border-radius: 4px; }
+    .widget-feedback.show { display: block; }
+    .row-feedback { padding: 8px 12px; margin-top: 8px; font-size: 14px; border-radius: 4px; line-height: 1.5; }
+    .row-feedback.correct { background: #D8F0DD; border-left: 3px solid #2A9D5C; color: #1A6B3D; }
+    .row-feedback.incorrect { background: #FDECEC; border-left: 3px solid #C0392B; color: #8A1F16; }
+    .widget-reset { background: transparent; border: 1px solid #C7922C; color: #C7922C; border-radius: 6px; padding: 6px 12px; font-size: 12px; cursor: pointer; font-family: inherit; margin-top: 6px; }
+    .widget-reset:hover { background: #FDF3E3; }
+    .ow-scale .widget-options { justify-content: space-between; }
+    .ow-scale .widget-options button { flex: 1; text-align: center; }
+    .ow-flip { background: #FFFFFF; border: 1px solid #D0D9E8; border-radius: 8px; padding: 18px 20px; cursor: pointer; text-align: center; }
+    .ow-flip .ow-flip-back { display: none; color: #1a2340; }
+    .ow-flip.flipped .ow-flip-front { display: none; }
+    .ow-flip.flipped .ow-flip-back { display: block; }
+
+    .widget-feedback[data-ph] { display: block; visibility: hidden; }
+    .widget-feedback[data-ph].show { visibility: visible; }
+    .row-feedback { border-left: 3px solid transparent; }
+    .row-feedback.ph { visibility: hidden; }
+    .row-feedback, .widget-feedback[data-ph], .ow-seq .seq-msg { box-sizing: border-box; }
+    .ow-seq .seq-pool { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 10px; }
+    .ow-seq .seq-item { background: #FFFFFF; border: 1.5px solid #D0D9E8; border-radius: 8px; padding: 9px 14px; font-size: 14px; color: #0E1C42; cursor: pointer; font-family: inherit; text-align: left; line-height: 1.4; }
+    .ow-seq .seq-item:hover { background: #F4F6FA; border-color: #55C8E8; }
+    .ow-seq .seq-tag { visibility: hidden; margin-left: 8px; font-size: 12px; color: #1A6B3D; white-space: nowrap; }
+    .ow-seq .seq-item.placed { background: #D8F0DD; border-color: #2A9D5C; color: #1A6B3D; cursor: default; }
+    .ow-seq .seq-item.placed .seq-tag { visibility: visible; }
+    .ow-seq .seq-item.bad { background: #FDECEC; border-color: #C0392B; color: #8A1F16; }
+    .ow-seq .seq-msg { font-size: 15px; color: #1a2340; line-height: 1.5; min-height: 40px; background: #FFFFFF; border-left: 3px solid #D0D9E8; border-radius: 4px; padding: 8px 12px; margin-bottom: 8px; }
+    .ow-seq .seq-msg.bad { color: #8A1F16; border-left-color: #C0392B; background: #FDECEC; }
+    .ow-seq .seq-msg.good { color: #1A6B3D; border-left-color: #2A9D5C; background: #D8F0DD; }
+    .ow-flips .flip-grid { display: flex; flex-wrap: wrap; gap: 10px; }
+    .ow-flips .ow-flip { flex: 1; min-width: 200px; min-height: 150px; display: flex; flex-direction: column; justify-content: center; }
+
+    .ow-scrub input[type=range] { width: 100%; margin: 6px 0 0 0; accent-color: #C7922C; }
+    .ow-scrub .scrub-ticks { display: flex; justify-content: space-between; font-size: 12px; color: #1B6A94; margin: 2px 2px 10px 2px; }
+    .ow-scrub .scrub-cards, .stack { display: grid; }
+    .ow-scrub .scrub-card, .stack > div { grid-area: 1 / 1; visibility: hidden; box-sizing: border-box; }
+    .ow-scrub .scrub-card.on, .stack > div.on { visibility: visible; }
+    .ow-scrub .scrub-card { background: #FFFFFF; border: 1px solid #D0D9E8; border-left: 4px solid #C7922C; border-radius: 6px; padding: 12px 14px; font-size: 15px; line-height: 1.55; color: #1a2340; }
+    .ow-scrub .scrub-date { font-size: 13px; color: #C7922C; margin-bottom: 4px; }
+    .ow-match .mt-cols { display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 10px; }
+    .ow-match .mt-col { flex: 1; min-width: 200px; display: flex; flex-direction: column; gap: 8px; }
+    .ow-match .mt-head { font-size: 12px; color: #1B6A94; letter-spacing: 0.3px; }
+    .ow-match button.mt { background: #FFFFFF; border: 1.5px solid #D0D9E8; border-radius: 8px; padding: 10px 14px; font-size: 14px; color: #0E1C42; cursor: pointer; font-family: inherit; text-align: left; line-height: 1.4; }
+    .ow-match button.mt:hover { background: #F4F6FA; border-color: #55C8E8; }
+    .ow-match button.mt.sel { background: #0E1C42; color: #FFFFFF; border-color: #0E1C42; }
+    .ow-match button.mt.done { background: #D8F0DD; border-color: #2A9D5C; color: #1A6B3D; cursor: default; }
+    .ow-match button.mt.bad { background: #FDECEC; border-color: #C0392B; color: #8A1F16; }
+    .ow-match .mt-msg { background: #FFFFFF; border-left: 3px solid #C7922C; border-radius: 4px; padding: 10px 14px; font-size: 15px; line-height: 1.55; color: #1a2340; margin-bottom: 8px; }
+    .ow-match .mt-msg.good > div.on { color: #1A6B3D; }
+    .ow-pf .widget-options button.selected { background: #0E1C42; color: #FFFFFF; border-color: #0E1C42; }
+
+    .ow-cmp .cmp-panels > div { background: #FFFFFF; border: 1px solid #D0D9E8; border-left: 4px solid #C7922C; border-radius: 6px; padding: 12px 18px; font-size: 15px; line-height: 1.55; color: #1a2340; }
+    .ow-cmp .cmp-panels ul { margin: 0; padding-left: 20px; }
+    .ow-cmp .cmp-panels li { margin-bottom: 6px; }
+    .ow-cmp .widget-options { margin-bottom: 10px; }
+</style>
+</head>
+<body>
+<div class="canvas-frame">
+
+<div data-ra-skip style="background: #0E1C42; border-bottom: 5px solid #55C8E8; padding: 22px 34px;">
+    <div style="display: flex; align-items: center; gap: 14px; margin-bottom: 10px;">
+        <div style="width: 52px; height: 52px; border-radius: 50%; background: #FFFFFF; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><img src="https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png" alt="Optima Academy" style="width: 50px; height: 40px; object-fit: contain;" /></div>
+        <div>
+            <div style="font-size: 28px; color: #ffffff; line-height: 1.2;">Optima Academy Online</div>
+            <div style="font-size: 12px; color: #55c8e8;">An Education Experience Company</div>
+        </div>
+    </div>
+    <div style="font-size: 36px; color: #ffffff; margin-bottom: 6px;">HISTORY</div>
+</div>
+
+<div data-ra-skip style="background: #FFFFFF; border-bottom: 2px solid #D0D9E8; display: flex; flex-wrap: wrap;">
+    <div style="flex: 2; min-width: 220px; padding: 12px 16px; border-right: 1px solid #D0D9E8;">
+        <div style="font-size: 11px; color: #6b7a99; margin-bottom: 4px;">Topic</div>
+        <div style="font-size: 17px; color: #0e1c42; font-style: italic;">Austin Becomes a Tech Town</div>
+    </div>
+    <div style="flex: 1; min-width: 140px; padding: 12px 16px;">
+        <div style="font-size: 11px; color: #6b7a99; margin-bottom: 4px;">Anchor Date</div>
+        <div style="font-size: 17px; color: #0e1c42;">1983</div>
+    </div>
+</div>
+<div style="padding: 24px 34px;">
+<div id="optima-read-aloud">
+<style>
+    #optima-read-aloud { background: linear-gradient(135deg, #E8F6FB 0%, #F4F9FC 100%); border: 1px solid #C5DCE5; border-left: 5px solid #2196D0; border-radius: 8px; padding: 14px 18px; margin: 0 0 20px 0; }
+    #optima-read-aloud .ora-kicker { font-size: 11px; color: #1B6A94; letter-spacing: 0.4px; margin-bottom: 10px; }
+    #optima-read-aloud .ora-controls { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; }
+    #optima-read-aloud .ora-controls button { border-radius: 8px; padding: 8px 16px; font-size: 14px; cursor: pointer; font-family: inherit; transition: all 0.15s; }
+    #ora-play { background: #0E1C42; color: #FFFFFF; border: 1.5px solid #0E1C42; }
+    #ora-play:hover:enabled { background: #1B2D5E; }
+    #ora-play:disabled { background: #D0D9E8; border-color: #D0D9E8; color: #6b7a99; cursor: default; }
+    #ora-stop { background: #FFFFFF; color: #0E1C42; border: 1.5px solid #D0D9E8; }
+    #ora-stop:hover:enabled { background: #F4F6FA; border-color: #55C8E8; }
+    #ora-stop:disabled { color: #999; border-color: #E4E9F2; cursor: default; }
+    #optima-read-aloud .ora-speed { font-size: 12px; color: #6b7a99; display: flex; align-items: center; gap: 6px; }
+    #ora-rate { font-family: inherit; font-size: 13px; color: #0E1C42; border: 1.5px solid #D0D9E8; border-radius: 6px; padding: 5px 8px; background: #FFFFFF; }
+    #ora-status { font-size: 12px; color: #666; }
+    .ora-highlight { background: #FDF3E3 !important; box-shadow: inset 4px 0 0 #C7922C; border-radius: 4px; transition: background 0.2s; }
+</style>
+    <div class="ora-kicker">&#128266; READ ALOUD: LISTEN TO THIS PAGE</div>
+    <div class="ora-controls">
+        <button id="ora-play" type="button" aria-label="Listen to this page">&#9654;&#65039; Listen</button>
+        <button id="ora-stop" type="button" aria-label="Stop reading" disabled>&#9632; Stop</button>
+        <label class="ora-speed">Speed
+            <select id="ora-rate" aria-label="Reading speed">
+                <option value="0.8">Slower</option>
+                <option value="1" selected>Normal</option>
+                <option value="1.25">Faster</option>
+            </select>
+        </label>
+        <span id="ora-status" role="status" aria-live="polite"></span>
+    </div>
+<script>
+(function () {
+    "use strict";
+    var playBtn  = document.getElementById("ora-play");
+    var stopBtn  = document.getElementById("ora-stop");
+    var rateSel  = document.getElementById("ora-rate");
+    var statusEl = document.getElementById("ora-status");
+
+    if (!("speechSynthesis" in window) || !("SpeechSynthesisUtterance" in window)) {
+        playBtn.disabled = true;
+        rateSel.disabled = true;
+        statusEl.textContent = "Read-aloud is not supported in this browser.";
+        return;
+    }
+
+    var LABEL_PLAY   = "▶️ Listen";
+    var LABEL_PAUSE  = "⏸️ Pause";
+    var LABEL_RESUME = "▶️ Resume";
+    var BLOCK_SEL = "p, li, h1, h2, h3, h4, h5, h6, blockquote, td, th, dt, dd, figcaption, div";
+    var SKIP_SEL  = "#optima-read-aloud, [data-ra-skip], button, script, style, select, noscript, iframe";
+
+    var queue = [];        // [{ el, text }]: one entry per sentence
+    var idx = 0;
+    var playing = false, paused = false, stopping = false;
+    var currentBlock = null;
+    var currentUtterance = null;  // held to dodge a Chrome garbage-collection bug
+
+    var voices = [];
+    function loadVoices() { voices = window.speechSynthesis.getVoices(); }
+    loadVoices();
+    if ("onvoiceschanged" in window.speechSynthesis) {
+        window.speechSynthesis.onvoiceschanged = loadVoices;
+    }
+    function pickVoice() {
+        if (!voices.length) loadVoices();
+        var en = voices.filter(function (v) { return /^en/i.test(v.lang); });
+        return en.filter(function (v) { return /natural/i.test(v.name); })[0]
+            || en.filter(function (v) { return /google us english/i.test(v.name); })[0]
+            || en.filter(function (v) { return v.default; })[0]
+            || en[0] || null;
+    }
+
+    function isVisible(el) {
+        return !!(el.offsetWidth || el.offsetHeight || el.getClientRects().length);
+    }
+
+    // Walk text nodes, attach each to its nearest block ancestor, split into sentences.
+    function collectQueue() {
+        var root = document.querySelector("[data-readaloud-root]")
+                || document.querySelector(".canvas-frame")
+                || document.body;
+        var walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, null, false);
+        var items = [];   // [{ el, text }]: one entry per block, in reading order
+        var node;
+        while ((node = walker.nextNode())) {
+            if (!/\S/.test(node.textContent)) continue;
+            var el = node.parentElement;
+            if (!el || el.closest(SKIP_SEL)) continue;
+            if (!isVisible(el)) continue;
+            var block = el.closest(BLOCK_SEL) || root;
+            var last = items[items.length - 1];
+            if (last && last.el === block) last.text += " " + node.textContent;
+            else items.push({ el: block, text: node.textContent });
+        }
+        var q = [];
+        items.forEach(function (item) {
+            var clean = item.text.replace(/\s+/g, " ").trim();
+            if (!clean) return;
+            var sentences = clean.match(/[^.!?]+[.!?]+[”"')\]]*\s*|[^.!?]+$/g) || [clean];
+            sentences.forEach(function (s) {
+                s = s.trim();
+                if (s) q.push({ el: item.el, text: s });
+            });
+        });
+        return q;
+    }
+
+    function highlight(el) {
+        if (el === currentBlock) return;
+        clearHighlight();
+        currentBlock = el;
+        if (el && el !== document.body) {
+            el.classList.add("ora-highlight");
+            try { el.scrollIntoView({ behavior: "smooth", block: "nearest" }); } catch (e) {}
+        }
+    }
+    function clearHighlight() {
+        if (currentBlock) currentBlock.classList.remove("ora-highlight");
+        currentBlock = null;
+    }
+
+    function speakNext() {
+        if (idx >= queue.length) { finish("Finished reading this page."); return; }
+        var item = queue[idx];
+        highlight(item.el);
+        var u = new SpeechSynthesisUtterance(item.text);
+        u.rate = parseFloat(rateSel.value) || 1;
+        var v = pickVoice();
+        if (v) u.voice = v;
+        u.onend = function () {
+            if (stopping) return;
+            idx++;
+            speakNext();
+        };
+        u.onerror = function (e) {
+            if (stopping || e.error === "canceled" || e.error === "interrupted") return;
+            idx++;
+            speakNext();
+        };
+        currentUtterance = u;
+        window.speechSynthesis.speak(u);
+        statusEl.textContent = "Reading… " + (idx + 1) + " / " + queue.length;
+    }
+
+    function finish(message) {
+        playing = false;
+        paused = false;
+        clearHighlight();
+        playBtn.textContent = LABEL_PLAY;
+        stopBtn.disabled = true;
+        statusEl.textContent = message || "";
+        currentUtterance = null;
+    }
+
+    playBtn.addEventListener("click", function () {
+        if (playing && !paused) {
+            window.speechSynthesis.pause();
+            paused = true;
+            playBtn.textContent = LABEL_RESUME;
+            statusEl.textContent = "Paused";
+            return;
+        }
+        if (playing && paused) {
+            window.speechSynthesis.resume();
+            paused = false;
+            playBtn.textContent = LABEL_PAUSE;
+            statusEl.textContent = "Reading… " + (idx + 1) + " / " + queue.length;
+            return;
+        }
+        queue = collectQueue();
+        if (!queue.length) { statusEl.textContent = "Nothing to read on this page."; return; }
+        idx = 0;
+        stopping = false;
+        playing = true;
+        paused = false;
+        window.speechSynthesis.cancel();
+        playBtn.textContent = LABEL_PAUSE;
+        stopBtn.disabled = false;
+        speakNext();
+    });
+
+    stopBtn.addEventListener("click", function () {
+        stopping = true;
+        window.speechSynthesis.cancel();
+        finish("");
+    });
+
+    // Changing speed mid-read restarts the current sentence at the new rate.
+    rateSel.addEventListener("change", function () {
+        if (!playing || paused) return;
+        stopping = true;
+        window.speechSynthesis.cancel();
+        setTimeout(function () { stopping = false; speakNext(); }, 60);
+    });
+
+    window.addEventListener("pagehide", function () { window.speechSynthesis.cancel(); });
+})();
+</script>
+</div>
+<!-- ═══ END OPTIMA READ-ALOUD PLAYER ═══ -->
+
+
+    <div style="background: #EEF1F8; border-left: 5px solid #0E1C42; border-radius: 7px; padding: 18px 22px; margin-bottom: 20px;">
+        <div style="font-size: 11px; color: #0e1c42; margin-bottom: 6px;">Lesson</div>
+        <div style="font-size: 22px; color: #0e1c42; margin-bottom: 4px;">Austin Becomes a Tech Town</div>
+    </div>
+    <div id="glossary" style="background: #E8F6FB; border-left: 5px solid #2196D0; border-top: 3px solid #55C8E8; border-radius: 6px; padding: 14px 20px; margin: 0 0 20px 0;">
+        <div style="font-size: 11px; color: #1B6A94; margin-bottom: 8px;">&#128161; GLOSSARY OF SUBJECT VOCABULARY</div>
+        <div style="font-size: 16px; color: #0E1C42; line-height: 1.6; margin-bottom: 10px;">A few words in this lesson are worth reviewing before you read. They are shown in bold with a dotted line. Hover over one to see what it means.</div>
+        <div style="font-size: 16px; color: #1a2340; line-height: 1.55; margin-bottom: 6px;"><strong>artificial intelligence</strong><button type="button" class="gloss-audio" aria-label="Play pronunciation of artificial intelligence" onclick="speakGloss(event,'artificial intelligence')">&#128266;</button> <span style="color: #6b7a99;">(ar-tuh-FISH-ul in-TEL-uh-junss)</span>: Computer programs that try to do things that usually take human thinking, such as understanding language or solving problems.</div>
+        <div style="font-size: 16px; color: #1a2340; line-height: 1.55; margin-bottom: 6px;"><strong>consortium</strong><button type="button" class="gloss-audio" aria-label="Play pronunciation of consortium" onclick="speakGloss(event,'consortium')">&#128266;</button> <span style="color: #6b7a99;">(kun-SOR-shum)</span>: A group of companies that join together to work toward a shared goal.</div>
+        <div style="font-size: 16px; color: #1a2340; line-height: 1.55; margin-bottom: 6px;"><strong>integrated circuit</strong><button type="button" class="gloss-audio" aria-label="Play pronunciation of integrated circuit" onclick="speakGloss(event,'integrated circuit')">&#128266;</button> <span style="color: #6b7a99;">(IN-tuh-gray-tid SUR-kit)</span>: A tiny electronic circuit with many parts built onto one small piece of material. Computer chips are integrated circuits.</div>
+        <div style="font-size: 16px; color: #1a2340; line-height: 1.55; margin-bottom: 6px;"><strong>semantic web</strong><button type="button" class="gloss-audio" aria-label="Play pronunciation of semantic web" onclick="speakGloss(event,'semantic web')">&#128266;</button> <span style="color: #6b7a99;">(suh-MAN-tik web)</span>: The idea that web pages should carry labels a computer can understand, so that it can sort and connect information instead of only showing words.</div>
+        <div style="font-size: 16px; color: #1a2340; line-height: 1.55; margin-bottom: 6px;"><strong>semiconductor</strong><button type="button" class="gloss-audio" aria-label="Play pronunciation of semiconductor" onclick="speakGloss(event,'semiconductor')">&#128266;</button> <span style="color: #6b7a99;">(sem-ee-kun-DUK-ter)</span>: A material used to make computer chips, which control electric current in electronic devices.</div>
+        <div style="font-size: 16px; color: #1a2340; line-height: 1.55; margin-bottom: 6px;"><strong>talent pipeline</strong><button type="button" class="gloss-audio" aria-label="Play pronunciation of talent pipeline" onclick="speakGloss(event,'talent pipeline')">&#128266;</button> <span style="color: #6b7a99;">(TAL-unt PYP-lyn)</span>: A steady flow of trained people, such as graduates, who are ready to fill skilled jobs.</div>
+        <div style="font-size: 16px; color: #1a2340; line-height: 1.55; margin-bottom: 6px;"><strong>technology</strong><button type="button" class="gloss-audio" aria-label="Play pronunciation of technology" onclick="speakGloss(event,'technology')">&#128266;</button> <span style="color: #6b7a99;">(tek-NOL-uh-jee)</span>: The tools, machines, and methods people use to solve problems.</div>
+    </div>
+
+    <div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+        <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#128214; TODAY'S FOCUS</div>
+        <div style="font-size: 20px; color: #0e1c42; font-style: italic; margin-bottom: 10px;">In 1984, a freshman at the University of Texas started selling computers out of his dorm room. Within a few years he was running a company.</div>
+        <div style="font-size: 18px; color: #1a2340; line-height: 1.65;">For most of its history, Austin was a government and college town. In the late 1900s it became one of the nation&rsquo;s leading homes of <a href="#glossary" style="border-bottom: 1.5px dotted #C7922C; cursor: help; color: #0E1C42; text-decoration: none; font-weight: bold;" title="The tools, machines, and methods people use to solve problems.">technology</a>. You will see how Texas Instruments began and why its chips and calculators mattered, how a few early plants grew into a tech industry, what a company called MCC did, how Michael Dell made computers cheaper, and why the University of Texas mattered.</div>
+    </div>
+    <div style="background: #FFFFFF; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+        <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#127919; BY THE END OF THIS LESSON YOU WILL BE ABLE TO&hellip;</div>
+        <div style="display: flex; align-items: flex-start; gap: 12px; margin-bottom: 12px;">
+            <div style="min-width: 26px; height: 26px; border-radius: 50%; background: #C7922C; color: #fff; font-size: 13px; display: flex; align-items: center; justify-content: center; flex-shrink: 0;">1</div>
+            <div style="font-size: 18px; color: #1a2340; line-height: 1.65;"><strong>I will be able to</strong> describe how Texas Instruments grew from an oil-exploration firm into a maker of chips and calculators, and how it and other companies first brought tech work to Austin.</div>
+        </div>
+        <div style="display: flex; align-items: flex-start; gap: 12px; margin-bottom: 12px;">
+            <div style="min-width: 26px; height: 26px; border-radius: 50%; background: #C7922C; color: #fff; font-size: 13px; display: flex; align-items: center; justify-content: center; flex-shrink: 0;">2</div>
+            <div style="font-size: 18px; color: #1a2340; line-height: 1.65;"><strong>I will be able to</strong> explain why the MCC <a href="#glossary" style="border-bottom: 1.5px dotted #C7922C; cursor: help; color: #0E1C42; text-decoration: none; font-weight: bold;" title="A group of companies that join together to work toward a shared goal.">consortium</a> came to Austin and what it did, including the Cyc project and the later work of Ramanathan Guha.</div>
+        </div>
+        <div style="display: flex; align-items: flex-start; gap: 12px; margin-bottom: 12px;">
+            <div style="min-width: 26px; height: 26px; border-radius: 50%; background: #C7922C; color: #fff; font-size: 13px; display: flex; align-items: center; justify-content: center; flex-shrink: 0;">3</div>
+            <div style="font-size: 18px; color: #1a2340; line-height: 1.65;"><strong>I will be able to</strong> explain how Michael Dell&rsquo;s direct-sales method made personal computers cheaper.</div>
+        </div>
+        <div style="display: flex; align-items: flex-start; gap: 12px; margin-bottom: 12px;">
+            <div style="min-width: 26px; height: 26px; border-radius: 50%; background: #C7922C; color: #fff; font-size: 13px; display: flex; align-items: center; justify-content: center; flex-shrink: 0;">4</div>
+            <div style="font-size: 18px; color: #1a2340; line-height: 1.65;"><strong>I will be able to</strong> explain how the University of Texas helped Austin&rsquo;s tech industry grow.</div>
+        </div>
+    </div>
+    <div style="background: #FFFFFF; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+        <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#128203; WHAT YOU NEED FOR THIS LESSON</div>
+        <div style="display: flex; align-items: flex-start; gap: 10px; margin-bottom: 8px; border-left: 3px solid #D0D9E8; padding-left: 14px;"><span style="color: #c7922c; font-size: 18px; flex-shrink: 0;">&#9654;</span>
+            <div style="font-size: 18px; color: #1a2340; line-height: 1.6;">This page.</div>
+        </div>
+    </div>
+    <div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+        <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#128218; PART 1 &middot; A QUIET CAPITAL</div>
+<h3 style="font-size: 20px; color: #0e1c42; margin: 18px 0 8px 0;">A Capital and a College</h3><p style="font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;">Austin became the capital of the Republic of Texas in 1839. For most of its history, it lived on two things, state government and the University of Texas, which opened in 1883. It had little heavy industry. It was smaller than Houston, Dallas, and San Antonio. People thought of it as a pleasant, quiet place with hills, lakes, and a lot of lawmakers.</p><p style="font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;">That began to change in the 1960s. Texas Instruments, the Dallas firm that began as a company for finding oil underground, opened a plant in Austin that made <a href="#glossary" style="border-bottom: 1.5px dotted #C7922C; cursor: help; color: #0E1C42; text-decoration: none; font-weight: bold;" title="A material used to make computer chips, which control electric current in electronic devices.">semiconductor</a>s. These are the tiny pieces at the heart of computer chips. IBM built a large facility in the city in 1967, and Motorola opened one in the 1970s. Each firm hired engineers and technicians, and some of them left to start their own small companies. A pool of skilled workers began to form.</p><p style="font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;">Austin offered some advantages. It had a major university that trained engineers and scientists. It had a mild feel and a lively culture that attracted young people. The cost of land and living was lower than in California. And Texas did not tax personal income. Business leaders in Austin, including the chamber of commerce, worked to recruit companies.</p><div class="optima-widget ow-flips" data-ra-skip>
+  <div class="widget-kicker">&#9889; TAP TO REVEAL &middot; AUSTIN&rsquo;S ADVANTAGES</div>
+  <div class="widget-question">Companies had many places to choose from. Tap each card to see what Austin could offer.</div>
+  <div class="flip-grid"><div class="ow-flip" tabindex="0"><div class="ow-flip-front" style="font-size:18px;color:#0E1C42;">The University of Texas</div><div class="ow-flip-back" style="font-size:16px;line-height:1.55;"><div style="font-size:13px;color:#c7922c;margin-bottom:4px;">The University of Texas</div>It trained engineers and scientists.</div></div><div class="ow-flip" tabindex="0"><div class="ow-flip-front" style="font-size:18px;color:#0E1C42;">Land and living costs</div><div class="ow-flip-back" style="font-size:16px;line-height:1.55;"><div style="font-size:13px;color:#c7922c;margin-bottom:4px;">Land and living costs</div>They were lower than in California.</div></div><div class="ow-flip" tabindex="0"><div class="ow-flip-front" style="font-size:18px;color:#0E1C42;">No personal income tax</div><div class="ow-flip-back" style="font-size:16px;line-height:1.55;"><div style="font-size:13px;color:#c7922c;margin-bottom:4px;">No personal income tax</div>Texas did not tax personal income.</div></div><div class="ow-flip" tabindex="0"><div class="ow-flip-front" style="font-size:18px;color:#0E1C42;">Business leaders</div><div class="ow-flip-back" style="font-size:16px;line-height:1.55;"><div style="font-size:13px;color:#c7922c;margin-bottom:4px;">Business leaders</div>The chamber of commerce and other local leaders worked to recruit companies.</div></div></div>
+  <button class="widget-reset">Reset</button>
+</div><h3 style="font-size: 20px; color: #0e1c42; margin: 18px 0 8px 0;">Texas Instruments: From Oil Maps to Calculators</h3><p style="font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;">Texas Instruments did not begin as an electronics company. In 1930, two men, J. Clarence Karcher and Eugene McDermott, started a Dallas firm called Geophysical Service. Its job was to help oil companies find oil. Crews set off small blasts and listened to how the sound waves bounced back from layers of rock deep underground. The echoes made a kind of map that showed where oil might be trapped. In 1951 the company took the name Texas Instruments and moved more and more into electronics.</p><p style="font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;">A tiny part called the transistor gave the company its big chance. A transistor controls the flow of electricity, and it replaced the large, hot glass tubes used in older radios and computers. In 1954 Texas Instruments began selling transistors made of silicon, a material that held up better in heat than earlier ones. Four years later, in 1958, a TI engineer named Jack Kilby built the first working <a href="#glossary" style="border-bottom: 1.5px dotted #C7922C; cursor: help; color: #0E1C42; text-decoration: none; font-weight: bold;" title="A tiny electronic circuit with many parts built onto one small piece of material. Computer chips are integrated circuits.">integrated circuit</a> in the company&rsquo;s Dallas lab. Instead of wiring separate parts together, he put several parts on one small piece of material. Robert Noyce, who worked for another company, soon came up with a different version, and the two men are both remembered as inventors of the chip. Later chips held thousands of parts, and then millions. Kilby won the Nobel Prize in Physics for his work in 2000.</p><p style="font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;">The company also wanted to put its chips into everyday things. In 1965, TI&rsquo;s leader, Patrick Haggerty, asked Kilby to design a calculator small enough to carry. Calculators of that time were heavy machines that sat on desks. Kilby&rsquo;s team built a prototype by 1967, and in 1972 TI sold the Datamath, a handheld calculator that ordinary people could buy. Because TI made its own chips, it could keep lowering the price, and models such as the TI-30 became favorites of students through the 1970s.</p><p style="font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;">The next step came in 1990, when TI released the TI-81, a graphing calculator that could draw the picture of an equation on a small screen. Later models, such as the TI-83 and the TI-84, followed. Math teachers built lessons around these machines, and many asked students to buy one. By the 2000s, TI was still the leading calculator maker for American schools. A Dallas oil-mapping firm had become a name that millions of students knew from their backpacks.</p><p style="font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;">Texas Instruments also helped make Austin.  Its Austin plant was one of the first chip plants in the city, and the engineers and technicians it hired became part of Austin&rsquo;s early pool of skilled workers.</p><div class="optima-widget ow-select" data-ra-skip>
+  <div class="widget-kicker">&#9889; TRY IT &middot; SPOT THE MIX-UP</div>
+  <div class="widget-question">Each student sentence about Texas Instruments has a mistake in it. Pick what really happened.</div>
+  <div class="widget-row" data-correct="2" data-fb="Right. In 1930 it helped oil companies find oil. Crews set off small blasts and listened to the echoes from layers of rock. The name Texas Instruments came in 1951." data-hint="Think about who the company’s customers were in 1930.">
+    <div class="widget-row-prompt">1. A student writes: &ldquo;Texas Instruments began as a company that made radios.&rdquo; What did the company, then called Geophysical Service, really do at first?</div>
+    <div class="widget-options"><button type="button" data-choice="0">It built the first handheld calculators</button><button type="button" data-choice="1">It sold computers straight to customers</button><button type="button" data-choice="2">It helped oil companies find oil by listening to echoes underground</button><button type="button" data-choice="3">It made the glass tubes used in old radios</button></div>
+    <div class="row-feedback ph" data-ph="Right. In 1930 it helped oil companies find oil. Crews set off small blasts and listened to the echoes from layers of rock. The name Texas Instruments came in 1951.">Right. In 1930 it helped oil companies find oil. Crews set off small blasts and listened to the echoes from layers of rock. The name Texas Instruments came in 1951.</div>
+  </div>
+  <div class="widget-row" data-correct="0" data-fb="Right. Instead of wiring separate parts together, he put several parts on one small piece of material." data-hint="Think about what the word “integrated” says about the parts.">
+    <div class="widget-row-prompt">2. A student writes: &ldquo;In 1958 Jack Kilby wired many separate parts together by hand.&rdquo; What did his integrated circuit really do?</div>
+    <div class="widget-options"><button type="button" data-choice="0">Put several parts on one small piece of material</button><button type="button" data-choice="1">Made a calculator small enough to carry</button><button type="button" data-choice="2">Made glass tubes last longer in a hot radio</button><button type="button" data-choice="3">Sent signals from one computer to another</button></div>
+    <div class="row-feedback ph" data-ph="Right. Instead of wiring separate parts together, he put several parts on one small piece of material.">Right. Instead of wiring separate parts together, he put several parts on one small piece of material.</div>
+  </div>
+  <div class="widget-row" data-correct="3" data-fb="Right. It was a handheld calculator that ordinary people could buy. Graphing calculators came later, with the TI-81 in 1990." data-hint="Think about what “handheld” and “ordinary people” tell you.">
+    <div class="widget-row-prompt">3. A student writes: &ldquo;The Datamath of 1972 was a heavy machine that sat on a desk.&rdquo; What was the Datamath really?</div>
+    <div class="widget-options"><button type="button" data-choice="0">A graphing calculator that drew the picture of an equation</button><button type="button" data-choice="1">A computer that students built in class</button><button type="button" data-choice="2">A radio that used silicon transistors</button><button type="button" data-choice="3">A handheld calculator that ordinary people could buy</button></div>
+    <div class="row-feedback ph" data-ph="Right. It was a handheld calculator that ordinary people could buy. Graphing calculators came later, with the TI-81 in 1990.">Right. It was a handheld calculator that ordinary people could buy. Graphing calculators came later, with the TI-81 in 1990.</div>
+  </div>
+  <div class="widget-row" data-correct="1" data-fb="Right. The TI-81 was a graphing calculator that could draw the picture of an equation on a small screen." data-hint="Think about what the word “graphing” means.">
+    <div class="widget-row-prompt">4. A student writes: &ldquo;The TI-81 of 1990 could only add and subtract.&rdquo; What could it really do?</div>
+    <div class="widget-options"><button type="button" data-choice="0">Play music for students</button><button type="button" data-choice="1">Draw the picture of an equation on a small screen</button><button type="button" data-choice="2">Take orders over the web</button><button type="button" data-choice="3">Find oil underground</button></div>
+    <div class="row-feedback ph" data-ph="Right. The TI-81 was a graphing calculator that could draw the picture of an equation on a small screen.">Right. The TI-81 was a graphing calculator that could draw the picture of an equation on a small screen.</div>
+  </div>
+  <button class="widget-reset">Reset</button>
+</div>
+    </div>
+    <div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+        <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#128218; PART 2 &middot; MCC AND SILICON HILLS</div>
+<h3 style="font-size: 20px; color: #0e1c42; margin: 18px 0 8px 0;">The MCC and Silicon Hills</h3><p style="font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;">The big turning point came in 1983. In 1982, Japan had announced a plan to build a new generation of computers, a &ldquo;fifth generation&rdquo; with <a href="#glossary" style="border-bottom: 1.5px dotted #C7922C; cursor: help; color: #0E1C42; text-decoration: none; font-weight: bold;" title="Computer programs that try to do things that usually take human thinking, such as understanding language or solving problems.">artificial intelligence</a>. Many American companies worried that Japan would take the lead in computing. In response, several leading firms joined together to form the Microelectronics and Computer Technology Corporation, or MCC. A <a href="#glossary" style="border-bottom: 1.5px dotted #C7922C; cursor: help; color: #0E1C42; text-decoration: none; font-weight: bold;" title="A group of companies that join together to work toward a shared goal.">consortium</a> like this was unusual, because the companies were competitors who agreed to share research.</p><p style="font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;">Dozens of cities wanted MCC. Austin won, beating other cities such as Atlanta and San Diego. The University of Texas, the governor, and local leaders all joined to make the offer attractive. MCC&rsquo;s first leader was Admiral Bobby Ray Inman, a retired Navy officer and intelligence chief. MCC brought hundreds of top scientists and engineers to Austin. Its research had mixed success, and it never matched what Japan had planned. But the people it brought stayed, and some started new companies.</p><p style="font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;">Some Texans called the area &ldquo;Silicon Hills,&rdquo; a copy of California&rsquo;s Silicon Valley.</p><div class="optima-widget ow-scrub" data-ra-skip>
+  <div class="widget-kicker">&#9889; TRY IT &middot; HOW MCC CAME TO AUSTIN</div>
+  <div class="widget-question">Slide along the line to follow the story from Japan&rsquo;s plan to Silicon Hills.</div>
+  <input type="range" min="0" max="4" step="1" value="0" aria-label="HOW MCC CAME TO AUSTIN">
+  <div class="scrub-ticks"><span>1982</span><span>1983</span><span>The offer</span><span>The leader</span><span>Afterward</span></div>
+  <div class="scrub-cards"><div class="scrub-card on"><div class="scrub-date">1982</div>Japan announces a plan for a &ldquo;fifth generation&rdquo; of computers with artificial intelligence. Many American companies worry that Japan will take the lead in computing.</div><div class="scrub-card"><div class="scrub-date">1983</div>Leading firms form the Microelectronics and Computer Technology Corporation, or MCC. The companies are competitors, but they agree to share research.</div><div class="scrub-card"><div class="scrub-date">The offer</div>Dozens of cities want MCC. Austin beats cities such as Atlanta and San Diego. The University of Texas, the governor and local leaders join to make the offer attractive.</div><div class="scrub-card"><div class="scrub-date">The leader</div>MCC&rsquo;s first leader is Admiral Bobby Ray Inman, a retired Navy officer and intelligence chief.</div><div class="scrub-card"><div class="scrub-date">Afterward</div>MCC brings hundreds of top scientists and engineers to Austin. Its research has mixed success, but the people stay and some start new companies. Some Texans call the area &ldquo;Silicon Hills.&rdquo;</div></div>
+  <button class="widget-reset">Reset</button>
+</div><h3 style="font-size: 20px; color: #0e1c42; margin: 18px 0 8px 0;">Cyc and a Computer with Common Sense</h3><p style="font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;">One MCC project aimed at a very hard problem: teaching a computer common sense. It was led by a scientist named Doug Lenat, and it was called Cyc, which is said like the first part of &ldquo;encyclopedia.&rdquo; Computers in the 1980s could do arithmetic in a flash, but they did not know the simple things every child knows, such as that water is wet or that a person cannot be in two places at once. Lenat&rsquo;s team set out to write down millions of facts like these, along with the rules for using them, so that a computer could reason with them. Cyc never became a product that families bought, but the work went on for decades. In the mid-1990s Lenat started a company, Cycorp, to carry it forward.</p><p style="font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;">A younger researcher, Ramanathan V. Guha, worked on Cyc at MCC in the late 1980s and early 1990s. He then moved on, and his ideas traveled with him. At Apple, he built a system for describing what is inside files and websites, so that a computer could sort them by meaning. He called it the Meta Content Framework. At Netscape, an early web company, he helped turn that idea into a public standard called RDF, the Resource Description Framework, which is a way of attaching labeled facts to things on the web. Also at Netscape, in 1999, Guha and a coworker made the first version of RSS, a feed that let a website announce its new stories to anyone who signed up. At first the letters stood for RDF Site Summary.</p><p style="font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;">Together, these tools fed an idea called the <a href="#glossary" style="border-bottom: 1.5px dotted #C7922C; cursor: help; color: #0E1C42; text-decoration: none; font-weight: bold;" title="The idea that web pages should carry labels a computer can understand, so that it can sort and connect information instead of only showing words.">semantic web</a>, in which web pages carry labels that computers can read, not only words that people can read. Guha joined Google in 2005. There he started Google Custom Search, which lets a website or a group of sites build a search box that looks only through chosen pages. He later helped launch Schema.org, a shared set of labels that Google and other search companies use. A line of work that began in an Austin research lab for competing companies had reached the search boxes people used every day.</p><div class="optima-widget ow-reflect ow-pf" data-ra-skip>
+  <div class="widget-kicker">&#9889; PREDICT FIRST</div>
+  <div class="widget-question">Computers in the 1980s could do arithmetic in a flash. What do you think was missing that the Cyc project tried to supply? (No wrong answer. Make a guess, then see what the lesson says.)</div>
+  <div class="widget-options"><button type="button" data-response="Yes. Doug Lenat’s team set out to write down millions of facts, such as that water is wet, along with the rules for using them.">&#128214; Facts about the world</button><button type="button" data-response="Computers were already quick at arithmetic. What Cyc aimed at was the simple things every child knows, written down as millions of facts and rules.">&#9889; More speed</button><button type="button" data-response="Storage was not the goal. Lenat’s team wrote down millions of facts, such as that a person cannot be in two places at once, plus the rules for using them.">&#128190; More memory</button></div>
+  <div class="widget-feedback" data-ph="Storage was not the goal. Lenat’s team wrote down millions of facts, such as that a person cannot be in two places at once, plus the rules for using them.">Storage was not the goal. Lenat’s team wrote down millions of facts, such as that a person cannot be in two places at once, plus the rules for using them.</div>
+  <button class="widget-reset">Reset</button>
+</div><h3 style="font-size: 20px; color: #0e1c42; margin: 18px 0 8px 0;">Michael Dell Starts a Company</h3><p style="font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;">Michael Dell arrived at the University of Texas in 1984 as a 19-year-old freshman. His family expected him to become a doctor, but he was more interested in computers. In his dorm room he bought parts and upgraded personal computers, called PCs, for students and local businesses. With about $1,000, he started a company called PC&rsquo;s Limited. Business grew so fast that he left school to run it full time.</p><p style="font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;">His big idea was to change how computers were sold. In the 1980s, most PCs reached buyers through stores, and each step added to the price. Dell sold straight to customers, first by phone and later over the web. He built each computer after it was ordered, using the parts the buyer chose. That meant fewer unsold machines sitting in warehouses and no store markup. In 1988 the company became Dell Computer Corporation and sold shares to the public. Its headquarters grew up in Round Rock, just north of Austin.</p><div class="optima-widget ow-match" data-ra-skip data-left="" data-count="0">
+  <div class="widget-kicker">&#9889; TRY IT &middot; DELL&rsquo;S BIG IDEA</div>
+  <div class="widget-question">Tap a card on the left, then tap the card on the right that goes with it.</div>
+  <div class="mt-cols"><div class="mt-col"><div class="mt-head">Michael Dell’s company</div><button type="button" class="mt mt-l" data-k="0">PC’s Limited</button><button type="button" class="mt mt-l" data-k="1">Sold straight to customers</button><button type="button" class="mt mt-l" data-k="2">Built after the order</button><button type="button" class="mt mt-l" data-k="3">1988</button></div><div class="mt-col"><div class="mt-head">What it meant</div><button type="button" class="mt mt-r" data-k="2">Fewer unsold machines in warehouses</button><button type="button" class="mt mt-r" data-k="3">The company sold shares to the public</button><button type="button" class="mt mt-r" data-k="0">The company he began with about $1,000</button><button type="button" class="mt mt-r" data-k="1">No store markup added to the price</button></div></div>
+  <div class="mt-msg stack"><div data-k="start" class="on">Tap a card on the left to begin.</div><div data-k="hint">Not that one. Think about how Dell sold his computers.</div><div data-k="done">All four match. Selling direct and building to order kept prices low, and the company grew into Dell Computer Corporation.</div><div data-k="0">Right. He started it in 1984, upgrading PCs for students and local businesses.</div><div data-k="1">Right. In the 1980s most PCs went through stores, and each step added to the price.</div><div data-k="2">Right. Each computer was built from the parts the buyer chose.</div><div data-k="3">Right. It became Dell Computer Corporation that year.</div></div>
+  <button class="widget-reset">Reset</button>
+</div><div class="optima-widget ow-select" data-ra-skip>
+  <div class="widget-kicker">&#9889; TRY IT &middot; WHY AUSTIN?</div>
+  <div class="widget-question">Austin became a tech town through choices as well as luck. Pick the best answer for each row.</div>
+  <div class="widget-row" data-correct="2" data-fb="Right. The University of Texas, the governor and local leaders all joined to make the offer attractive." data-hint="Think about who worked together to make Austin’s offer.">
+    <div class="widget-row-prompt">1. Why did Austin win MCC over cities like Atlanta and San Diego?</div>
+    <div class="widget-options"><button type="button" data-choice="0">It was already the largest city in the state of Texas</button><button type="button" data-choice="1">It sat on top of the biggest oil field in the world</button><button type="button" data-choice="2">Leaders and the university made a joint offer</button><button type="button" data-choice="3">Japan chose it to host the new computer project</button></div>
+    <div class="row-feedback ph" data-ph="Right. The University of Texas, the governor and local leaders all joined to make the offer attractive.">Right. The University of Texas, the governor and local leaders all joined to make the offer attractive.</div>
+  </div>
+  <div class="widget-row" data-correct="0" data-fb="Right. They hired engineers and technicians, and some left to start their own small companies. A pool of skilled workers began to form." data-hint="Think about the people those plants hired.">
+    <div class="widget-row-prompt">2. What did early plants by Texas Instruments, IBM and Motorola do for Austin?</div>
+    <div class="widget-options"><button type="button" data-choice="0">Helped build a pool of skilled workers</button><button type="button" data-choice="1">Moved the state capital to another city</button><button type="button" data-choice="2">Replaced the university with a new one</button><button type="button" data-choice="3">Ended the need for trained engineers</button></div>
+    <div class="row-feedback ph" data-ph="Right. They hired engineers and technicians, and some left to start their own small companies. A pool of skilled workers began to form.">Right. They hired engineers and technicians, and some left to start their own small companies. A pool of skilled workers began to form.</div>
+  </div>
+  <div class="widget-row" data-correct="1" data-fb="Right. He sold them directly to customers, which kept prices low." data-hint="Think about how he reached his buyers.">
+    <div class="widget-row-prompt">3. Why did Michael Dell&rsquo;s computers cost less than others?</div>
+    <div class="widget-options"><button type="button" data-choice="0">He used the cheapest parts anywhere</button><button type="button" data-choice="1">He sold straight to customers</button><button type="button" data-choice="2">He gave away the screens</button><button type="button" data-choice="3">He built them in Japan</button></div>
+    <div class="row-feedback ph" data-ph="Right. He sold them directly to customers, which kept prices low.">Right. He sold them directly to customers, which kept prices low.</div>
+  </div>
+  <button class="widget-reset">Reset</button>
+</div>
+    </div>
+    <div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+        <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#128218; PART 3 &middot; GROWTH AND ITS COSTS</div>
+<h3 style="font-size: 20px; color: #0e1c42; margin: 18px 0 8px 0;">Why It Worked, and What It Cost</h3><p style="font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;">The University of Texas at Austin is a big reason. It graduates thousands of engineers and computer scientists each year, and many stay in the area. This steady flow of trained workers is called a <a href="#glossary" style="border-bottom: 1.5px dotted #C7922C; cursor: help; color: #0E1C42; text-decoration: none; font-weight: bold;" title="A steady flow of trained people, such as graduates, who are ready to fill skilled jobs.">talent pipeline</a>. Companies know that if they set up in Austin, they can hire from it. The university also does research that leads to new companies. In turn, the tech companies hire students and give money back to the school.</p><p style="font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;">Dell Computer became the best-known company of the new tech Austin. In 1996 it began taking orders on the web, and online sales grew quickly through the late 1990s. In 2001 Dell became the world&rsquo;s top seller of computer systems, passing Compaq. Because it sold direct and built to order, Dell could charge less than many rivals, and other PC makers had to cut their own prices to compete. Over those years, a personal computer went from a costly purchase to something a family or a school could afford. In the middle 2000s other makers, such as Hewlett-Packard, passed Dell at times, but it stayed one of the largest PC companies in the world.</p><p style="font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;">Other firms followed. Samsung built a major chip plant in Austin in the 1990s. Apple, Google, which is part of Alphabet, and many others opened large offices.</p><p style="font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;">In recent years, even bigger names have come. In 2020, Oracle, one of the world&rsquo;s largest software companies, moved its headquarters to Austin. In 2021, Tesla announced it would move its headquarters to the Austin area and build a huge factory there. The city that had once been a quiet capital had become a center of the digital age. From about 345,000 people in 1980, Austin grew to nearly 960,000 by 2020, and it passed one million in 2025.</p><p style="font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;">Elon Musk&rsquo;s companies have added to the story. Tesla&rsquo;s Texas factory, called Giga Texas, rose in southeast Austin beside the Colorado River and began building cars in the 2020s, first the Model Y and later the Cybertruck. In 2026, Musk announced plans for Terafab, a large chip factory that his companies hope to build in Texas. It is still only a plan. If it is built, it would put chip making back at the center of Austin&rsquo;s story, as it was when Texas Instruments first came to town.</p><p style="font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;">SpaceX, Musk&rsquo;s rocket company, also works in Texas, far from Austin&rsquo;s offices. On the Gulf Coast near Brownsville, at a site called Starbase, it builds and tests Starship, its giant rocket, and launches it from the coast. Near Waco, at McGregor, SpaceX tests its rocket engines at a large site it has used since the 2000s. These places made Texas a home for space work as well as computers.</p><p style="font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;">Tech also has its own booms and busts, like the oil and cattle businesses before it. In the late 1990s, many Austin companies grew quickly as the internet took off. Investors poured money into new firms, and young workers flooded into the city. In 2000 and 2001, many of those internet companies failed, and thousands of Austin workers lost their jobs. But the University, the skilled workers, and the larger companies remained, and the industry recovered. The lesson was that a city built on a new industry has to be ready for sudden swings.</p><p style="font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;">The story also shows how places change by choices as well as luck. Austin did not have to become a tech city. Leaders made offers, workers took risks, and companies chose to build there. Another city might have won MCC, and another history might have followed. Austin&rsquo;s path was its own, and it began to set the city apart from the rest of the state.</p><div class="optima-widget ow-reflect" data-ra-skip>
+  <div class="widget-kicker">&#9889; QUICK CHECK-IN</div>
+  <div class="widget-question">The lesson says another city might have won MCC. If one had, what do you think would have been different in Austin? (No wrong answer. Just check in with yourself.)</div>
+  <div class="widget-options"><button type="button" data-response="Possibly. MCC brought hundreds of top scientists and engineers, and some of them started new companies. Without MCC, the first wave of local firms might have been smaller.">&#127970; Fewer new companies</button><button type="button" data-response="A fair thought. The University of Texas trained engineers and scientists, and Texas Instruments, IBM and Motorola were already hiring. Still, the people MCC brought stayed and started companies.">&#127891; Not much, the university would still draw them</button><button type="button" data-response="It could have happened. Leaders made offers, workers took risks and companies chose where to build, so another history might have followed.">&#127760; Another city would be the tech center</button></div>
+  <div class="widget-feedback" data-ph="A fair thought. The University of Texas trained engineers and scientists, and Texas Instruments, IBM and Motorola were already hiring. Still, the people MCC brought stayed and started companies.">A fair thought. The University of Texas trained engineers and scientists, and Texas Instruments, IBM and Motorola were already hiring. Still, the people MCC brought stayed and started companies.</div>
+  <button class="widget-reset">Reset</button>
+</div><div class="optima-widget ow-seq" data-ra-skip data-next="0" data-done="A university, early plants and a bold offer helped turn a quiet capital into a tech center." data-hint="Not yet. Which of these came earlier?">
+  <div class="widget-kicker">&#9889; TRY IT &middot; HOW AUSTIN BECAME A TECH TOWN</div>
+  <div class="widget-question">These six steps turned a quiet capital into a tech center. Click them in the order they happened.</div>
+  <div class="seq-pool"><button type="button" class="seq-item" data-n="3" data-date="The 1990s" data-text="Samsung builds a major chip plant in Austin" data-fb="Apple, Google and many others also opened large offices.">Samsung builds a major chip plant in Austin<span class="seq-tag">6. The 1990s</span></button><button type="button" class="seq-item" data-n="0" data-date="1967" data-text="IBM builds a large facility in Austin" data-fb="Texas Instruments and Motorola also opened plants in the city.">IBM builds a large facility in Austin<span class="seq-tag">6. 1967</span></button><button type="button" class="seq-item" data-n="5" data-date="2021" data-text="Tesla announces it will move its headquarters to the Austin area" data-fb="It also planned to build a huge factory there.">Tesla announces it will move its headquarters to the Austin area<span class="seq-tag">6. 2021</span></button><button type="button" class="seq-item" data-n="2" data-date="1984" data-text="Michael Dell starts selling computers" data-fb="He sold directly to customers, which kept prices low.">Michael Dell starts selling computers<span class="seq-tag">6. 1984</span></button><button type="button" class="seq-item" data-n="4" data-date="2020" data-text="Oracle moves its headquarters to Austin" data-fb="It is one of the world’s largest software companies.">Oracle moves its headquarters to Austin<span class="seq-tag">6. 2020</span></button><button type="button" class="seq-item" data-n="1" data-date="1983" data-text="Austin wins the MCC research consortium" data-fb="It beat cities such as Atlanta and San Diego.">Austin wins the MCC research consortium<span class="seq-tag">6. 1983</span></button></div>
+  <div class="seq-msg"></div>
+  <button class="widget-reset">Reset</button>
+</div>
+    </div>
+
+    <div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+        <div style="font-size: 11px; color: #c7922c; margin-bottom: 12px;">&#128170; WHAT TO CARRY FORWARD</div>
+        <p style="font-size: 18px; color: #1a2340; line-height: 1.65; margin: 0;">A university, a few early plants, and a bold offer to one consortium helped turn a quiet capital into a tech center.</p>
+    </div>
+</div>
+
+<div data-ra-skip style="background: #0E1C42; border-top: 3px solid #55C8E8; padding: 18px 34px; text-align: center;">
+    <div style="font-size: 18px; color: #ffffff; margin-bottom: 6px;"><span style="color: #55c8e8;">Optima Academy Online</span> &middot; HISTORY &middot; Student Lesson Page</div>
+    <div style="font-size: 13px; color: rgba(255,255,255,0.65); margin-bottom: 4px;">Austin Becomes a Tech Town</div>
+    <div style="font-size: 12px; color: rgba(255,255,255,0.4);">&copy; Optima Academy Online &middot; An Education Experience Company</div>
+</div>
+</div>
+<script>
+function speakGloss(e, text) {
+  e.stopPropagation();
+  if ('speechSynthesis' in window) {
+    window.speechSynthesis.cancel();
+    var u = new SpeechSynthesisUtterance(text);
+    u.rate = 0.85;
+    window.speechSynthesis.speak(u);
+  }
+}
+</script>
+<script>
+(function () {
+  document.addEventListener('click', function (e) {
+    var reset = e.target.closest('.widget-reset');
+    if (reset) {
+      var w = reset.closest('.optima-widget');
+      w.querySelectorAll('.widget-options button').forEach(function (b) { b.classList.remove('selected', 'correct', 'incorrect'); });
+      w.querySelectorAll('.widget-feedback').forEach(function (f) { f.classList.remove('show'); f.textContent = f.dataset.ph || ''; });
+      w.querySelectorAll('.row-feedback').forEach(function (f) { if (f.dataset.ph) { f.className = 'row-feedback ph'; f.textContent = f.dataset.ph; } else { f.remove(); } });
+      w.querySelectorAll('.ow-flip.flipped').forEach(function (c) { c.classList.remove('flipped'); });
+      return;
+    }
+    var rBtn = e.target.closest('.ow-reflect .widget-options button');
+    if (rBtn) {
+      var rw = rBtn.closest('.optima-widget');
+      rw.querySelectorAll('.widget-options button').forEach(function (b) { b.classList.remove('selected'); });
+      rBtn.classList.add('selected');
+      var fb = rw.querySelector('.widget-feedback');
+      fb.textContent = rBtn.dataset.response || '';
+      fb.classList.add('show');
+      return;
+    }
+    var sBtn = e.target.closest('.ow-select .widget-row .widget-options button, .ow-scale .widget-row .widget-options button');
+    if (sBtn) {
+      var row = sBtn.closest('.widget-row');
+      var correct = row.dataset.correct;
+      row.querySelectorAll('.widget-options button').forEach(function (b) { b.classList.remove('selected', 'correct', 'incorrect'); });
+      var right = sBtn.dataset.choice === correct;
+      sBtn.classList.add(right ? 'correct' : 'incorrect');
+      var text = right ? (sBtn.dataset.fb || row.dataset.fb || 'Right.') : (sBtn.dataset.fb || row.dataset.hint || 'Not quite. Try again.');
+      var rf = row.querySelector('.row-feedback') || row.appendChild(document.createElement('div'));
+      rf.className = 'row-feedback ' + (right ? 'correct' : 'incorrect');
+      rf.textContent = text;
+      return;
+    }
+    var flip = e.target.closest('.ow-flip');
+    if (flip) { flip.classList.toggle('flipped'); return; }
+  });
+})();
+
+(function () {
+  function fit(el, texts) {
+    el.style.minHeight = '';
+    var keep = el.textContent, tallest = 0;
+    texts.forEach(function (t) { el.textContent = t; tallest = Math.max(tallest, el.offsetHeight); });
+    el.textContent = keep;
+    el.style.minHeight = tallest + 'px';
+  }
+  function reserveAll() {
+    document.querySelectorAll('.ow-reflect .widget-feedback[data-ph]').forEach(function (f) {
+      var t = []; f.closest('.ow-reflect').querySelectorAll('.widget-options button').forEach(function (b) { t.push(b.dataset.response || ''); });
+      fit(f, t);
+    });
+    document.querySelectorAll('.ow-select .widget-row').forEach(function (r) {
+      var f = r.querySelector('.row-feedback.ph'); if (f) fit(f, [r.dataset.fb || '', r.dataset.hint || '']);
+    });
+    document.querySelectorAll('.ow-seq .seq-msg').forEach(function (m) {
+      var w = m.closest('.ow-seq'), t = [w.dataset.hint || '', w.dataset.done || ''];
+      w.querySelectorAll('.seq-item').forEach(function (b) { t.push(b.dataset.date + ': ' + b.dataset.text + '. ' + (b.dataset.fb || '')); });
+      fit(m, t);
+    });
+  }
+  reserveAll();
+  window.addEventListener('load', reserveAll);
+  window.addEventListener('resize', reserveAll);
+  document.addEventListener('click', function (e) {
+    var it = e.target.closest('.ow-seq .seq-item');
+    if (it && !it.classList.contains('placed')) {
+      var w = it.closest('.ow-seq'), next = parseInt(w.dataset.next, 10), n = parseInt(it.dataset.n, 10);
+      var msg = w.querySelector('.seq-msg');
+      if (n === next) {
+        it.classList.add('placed');
+        it.querySelector('.seq-tag').textContent = (next + 1) + '. ' + it.dataset.date;
+        w.dataset.next = next + 1;
+        msg.className = 'seq-msg good';
+        msg.textContent = it.dataset.date + ': ' + it.dataset.text + '. ' + (it.dataset.fb || '');
+        if (next + 1 === w.querySelectorAll('.seq-item').length) {
+          msg.textContent = w.dataset.done || 'All in order.';
+        }
+      } else {
+        it.classList.add('bad');
+        msg.className = 'seq-msg bad';
+        msg.textContent = w.dataset.hint || 'Not yet. Which of these came earlier?';
+        setTimeout(function () { it.classList.remove('bad'); }, 700);
+      }
+      return;
+    }
+    var rs = e.target.closest('.ow-seq .widget-reset');
+    if (rs) {
+      var q = rs.closest('.ow-seq');
+      q.dataset.next = 0;
+      q.querySelectorAll('.seq-item').forEach(function (b) { b.classList.remove('placed', 'bad'); });
+      var m = q.querySelector('.seq-msg'); m.className = 'seq-msg'; m.textContent = q.dataset.start || '';
+    }
+  });
+})();
+
+(function () {
+  function showOne(stack, key) {
+    stack.querySelectorAll(':scope > div').forEach(function (d) { d.classList.toggle('on', d.dataset.k === String(key)); });
+  }
+  document.addEventListener('input', function (e) {
+    var s = e.target.closest('.ow-scrub input[type=range]');
+    if (!s) return;
+    var w = s.closest('.ow-scrub');
+    w.querySelectorAll('.scrub-card').forEach(function (c, i) { c.classList.toggle('on', i === parseInt(s.value, 10)); });
+  });
+  document.addEventListener('click', function (e) {
+    var rs = e.target.closest('.ow-scrub .widget-reset');
+    if (rs) {
+      var w = rs.closest('.ow-scrub'), s = w.querySelector('input[type=range]');
+      s.value = 0;
+      w.querySelectorAll('.scrub-card').forEach(function (c, i) { c.classList.toggle('on', i === 0); });
+      return;
+    }
+    var m = e.target.closest('.ow-match');
+    if (!m) return;
+    var stack = m.querySelector('.mt-msg');
+    if (e.target.closest('.widget-reset')) {
+      m.dataset.left = ''; m.dataset.count = 0;
+      m.querySelectorAll('button.mt').forEach(function (b) { b.classList.remove('sel', 'done', 'bad'); });
+      stack.classList.remove('good'); showOne(stack, 'start');
+      return;
+    }
+    var b = e.target.closest('button.mt');
+    if (!b || b.classList.contains('done')) return;
+    if (b.classList.contains('mt-l')) {
+      m.querySelectorAll('button.mt-l').forEach(function (x) { x.classList.remove('sel'); });
+      b.classList.add('sel'); m.dataset.left = b.dataset.k; return;
+    }
+    if (!m.dataset.left) { showOne(stack, 'start'); return; }
+    if (b.dataset.k === m.dataset.left) {
+      b.classList.add('done');
+      var l = m.querySelector('button.mt-l[data-k="' + b.dataset.k + '"]'); l.classList.remove('sel'); l.classList.add('done');
+      m.dataset.left = ''; m.dataset.count = (parseInt(m.dataset.count || '0', 10) + 1);
+      if (parseInt(m.dataset.count, 10) === m.querySelectorAll('button.mt-l').length) { stack.classList.add('good'); showOne(stack, 'done'); }
+      else showOne(stack, b.dataset.k);
+    } else {
+      b.classList.add('bad'); showOne(stack, 'hint');
+      setTimeout(function () { b.classList.remove('bad'); }, 700);
+    }
+  });
+})();
+
+(function () {
+  function show(w, k) {
+    w.querySelectorAll('.cmp-tab').forEach(function (b) { b.classList.toggle('selected', b.dataset.k === k); });
+    w.querySelectorAll('.cmp-panels > div').forEach(function (d) { d.classList.toggle('on', d.dataset.k === k); });
+  }
+  document.addEventListener('click', function (e) {
+    var t = e.target.closest('.ow-cmp .cmp-tab');
+    if (t) { show(t.closest('.ow-cmp'), t.dataset.k); return; }
+    var r = e.target.closest('.ow-cmp .widget-reset');
+    if (r) { show(r.closest('.ow-cmp'), '0'); }
+  });
+})();
+</script>
+</body>
+</html>
