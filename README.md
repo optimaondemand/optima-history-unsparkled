@@ -1,17 +1,7 @@
-# optima-history-unsparkled
 
-Archive of the unsparkled (plain-format) versions of lessons that have since been sparkled in `optimaondemand/optima-history`. Paths match the originals. Nothing here is live or served; it exists so the pre-sparkle text and widgets are preserved.
 
-Each file is the newest pre-sparkle version in the `optima-history` commit history.
+## Spring semester (Weeks 19-36), added 2026-11-20
 
-| File | Source commit | Date |
-|---|---|---|
-| texas-annexation-reconstruction/president-polk-and-the-nueces-crisis.html | aaf7ec2 | 2026-10-07 |
-| texas-annexation-reconstruction/ranches-raids-and-the-rangers.html | b65da44 | 2026-11-13 |
-| texas-annexation-reconstruction/vaqueros-and-cowboys.html | b65da44 | 2026-11-13 |
-| american-west/the-open-range-and-the-great-cattle-drives.html | aaf7ec2 | 2026-10-07 |
-| texas-1876-1941/cattle-barons-and-the-closing-of-the-range.html | aaf7ec2 | 2026-10-07 |
-| texas-wwii-postwar/austin-becomes-a-tech-town.html | 1a964f4 | 2026-11-18 |
-| texas-wwii-postwar/austin-s-live-music-and-cultural-scene.html | 86ea168 | 2026-11-18 |
-
-Note: the Week 27 files are the 2026-10-07 versions; widgets added after sparkling exist only in the sparkled pages.
+- **Lessons:** the 27 Spring lessons that were unsparkled on `main` of `optima-history` on 2026-11-20, copied as they stood (Winfield Scott, Week 19, is the 2026-10-07 commit `aaf7ec2` from history because `main` is already sparkled). Each file keeps its original path.
+- **Primary source assessments:** Canvas 275 assignment bodies for Weeks 20-24, 26, 28-36 (15 items), read live from the Canvas API, under `canvas-275/primary-source-assessments/`. Assignment ids: Week 20 10914, 21 10916, 22 10918, 23 10920, 24 10922, 26 10926, 28 10931, 29 10933, 30 10935, 31 10937, 32 10939, 33 10941, 34 11969, 35 10944, 36 10946.
+- **Not included:** the Week 19, 25 and 27 primary source assessments, already sparkled in Canvas, so no unsparkled body is live.
