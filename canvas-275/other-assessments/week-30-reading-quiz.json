@@ -1,0 +1,212 @@
+{
+ "kind": "quiz",
+ "title": "Week 30 Reading Quiz",
+ "copy_title": "Week 30 Reading Quiz (Unsparkled)",
+ "canvas_course": 275,
+ "copy_quiz_id": 6592,
+ "quiz_type": "assignment",
+ "allowed_attempts": 2,
+ "scoring_policy": "keep_highest",
+ "shuffle_answers": true,
+ "show_correct_answers": false,
+ "assignment_group_id": 617,
+ "description_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Read both lessons before you start. Choose the best answer for each question. You may take this quiz twice, and your higher score counts.</p>",
+ "questions": [
+  {
+   "name": "Question 1",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Why did East Texas oil prices crash in 1931?</p>",
+   "answers": [
+    {
+     "text": "The government banned the export of all oil from the Gulf ports.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Dad Joiner closed down his wells, so supplies fell sharply.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Texas had stopped using oil in its factories and its cities.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Thousands of wells were pumping at once, which flooded the market.",
+     "html": "",
+     "weight": 100.0
+    }
+   ]
+  },
+  {
+   "name": "Question 2",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Governor Sterling sent the National Guard into the field and declared martial law. What did the drillers' behavior show?</p>",
+   "answers": [
+    {
+     "text": "The state had passed no laws at all about how oil could be pumped, and the Guard was sent in anyway.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Many drillers ignored the pumping limits, and the courts had sided with them at first.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Joiner had asked the Guard to protect his wells from thieves.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The Railroad Commission had already been abolished by the legislature.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 3",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Why did the Railroad Commission's decisions about oil affect prices around the world?</p>",
+   "answers": [
+    {
+     "text": "Texas produced so much oil that the amount pumped there moved prices everywhere.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "The commission owned most of the world's tanker ships, so it could decide where oil would be sold.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The commission also ran the Congress and the courts in Washington.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Texas oil was the only oil that could be found anywhere in the world.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 4",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Kilgore grew from about 700 to about ten thousand people in a year. Why did so many workers go there during the Depression?</p>",
+   "answers": [
+    {
+     "text": "The government sent them there to open new farms, and many went to work the land around the town.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Many had lost farms or jobs, and any strong worker could find a place on a drilling crew.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Kilgore had no oil, but it had very cheap land for sale.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Cotton prices had risen sharply, and farm work paid well that year.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 5",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Dallas has no seaport or oil field. What fact best explains its early growth?</p>",
+   "answers": [
+    {
+     "text": "The Trinity River carried large ships all the way to its docks, so goods could be shipped by water.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "In 1872 and 1873 two railroads crossed there, making it a crossroads for cotton.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "It had been the first capital of the Republic of Texas.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The Comanche chose the site as their main trading post.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 6",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">When banks failed across Texas in the Depression, Dallas banks kept growing. What helped them?</p>",
+   "answers": [
+    {
+     "text": "The federal government owned and ran every one of the banks, and so it protected them from loss.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "They refused to lend money to any oil company or oil driller.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Cotton prices had risen sharply across the state in those years.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Oil money from East Texas deals passed through them and gave them a cushion.",
+     "html": "",
+     "weight": 100.0
+    }
+   ]
+  },
+  {
+   "name": "Question 7",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Dallas grew from cotton, oil, banking, insurance, retail, and manufacturing at the same time. How did that help it in the Depression?</p>",
+   "answers": [
+    {
+     "text": "It meant that every part of the economy failed in the same year.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It kept the Railroad Commission out of the city's business.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "When one part had a bad year, the others could help carry the city.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "It made the city smaller than the other large cities of Texas.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  }
+ ]
+}

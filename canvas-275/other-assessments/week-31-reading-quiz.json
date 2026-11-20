@@ -1,0 +1,212 @@
+{
+ "kind": "quiz",
+ "title": "Week 31 Reading Quiz",
+ "copy_title": "Week 31 Reading Quiz (Unsparkled)",
+ "canvas_course": 275,
+ "copy_quiz_id": 6595,
+ "quiz_type": "assignment",
+ "allowed_attempts": 2,
+ "scoring_policy": "keep_highest",
+ "shuffle_answers": true,
+ "show_correct_answers": false,
+ "assignment_group_id": 617,
+ "description_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Read both lessons before you start. Choose the best answer for each question. You may take this quiz twice, and your higher score counts.</p>",
+ "questions": [
+  {
+   "name": "Question 1",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">The lesson says Texas's economy had a pattern of sudden swings. What is the best explanation it gives?</p>",
+   "answers": [
+    {
+     "text": "Texans would not sell any of their goods outside the borders of the state.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Texas had too many different kinds of industry to depend on any one.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Texas sold raw goods in far-off markets and had few factories to fall back on.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Texas banks set the price of cotton and oil for the whole world.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 2",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Tenant farmers had it worst in the Depression. Which detail supports this?</p>",
+   "answers": [
+    {
+     "text": "Tenant farmers owned the land that they worked on.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Tenants received federal pensions as early as 1930.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Landowners sent families away or cut their pay.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Cotton prices were rising in the early years of the 1930s.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 3",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">The dust storms of the 1930s struck the High Plains especially hard. Which two facts together best explain why?</p>",
+   "answers": [
+    {
+     "text": "Farmers had plowed up the grass that held the soil, and the rain stopped.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Gulf winds changed direction, and the railroads shut down for years.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Oil wells ran dry, and the farmers sold off all of their cattle.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Hurricanes struck far inland, and the rivers flooded the wheat fields.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 4",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Why did the state government of Texas offer so little relief at first?</p>",
+   "answers": [
+    {
+     "text": "The governor refused to meet with the legislature during those years, so no relief law could ever be passed.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The 1876 constitution limited spending and borrowing, and Texans did not look to government for help.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Federal law forbade the states from giving any kind of relief at all.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Texas had no money problems at all during the years of the Depression.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 5",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Radio created a new kind of culture. What was new about it?</p>",
+   "answers": [
+    {
+     "text": "Radio could be heard only in the largest cities, which were the only places with electric power.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Millions of people in many places heard the same songs, shows, and news at once.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Radio replaced all of the newspapers in Texas right away.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Each Texas town could hear only its own small local station.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 6",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">The New Deal changed federalism in Texas. How did it get around the limits of the 1876 constitution?</p>",
+   "answers": [
+    {
+     "text": "It rewrote the constitution of Texas so that the state could spend more.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It abolished the Texas legislature for the years of the Depression.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It made Texas a territory of the United States once again.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Washington could spend money where the state could not or would not.",
+     "html": "",
+     "weight": 100.0
+    }
+   ]
+  },
+  {
+   "name": "Question 7",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Most rural Texas homes had no electricity before the Rural Electrification Administration. Why not?</p>",
+   "answers": [
+    {
+     "text": "Texans did not want electricity in their homes, so the companies never tried to sell it to them.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "There were no power plants anywhere in the state of Texas.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Private companies did not think it paid to string wires across thin country.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "The state had banned all electric lines in the countryside by law.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  }
+ ]
+}

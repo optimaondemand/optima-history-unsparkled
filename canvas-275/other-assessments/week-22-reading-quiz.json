@@ -1,0 +1,212 @@
+{
+ "kind": "quiz",
+ "title": "Week 22 Reading Quiz",
+ "copy_title": "Week 22 Reading Quiz (Unsparkled)",
+ "canvas_course": 275,
+ "copy_quiz_id": 6571,
+ "quiz_type": "assignment",
+ "allowed_attempts": 2,
+ "scoring_policy": "keep_highest",
+ "shuffle_answers": true,
+ "show_correct_answers": false,
+ "assignment_group_id": 617,
+ "description_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Read both lessons before you start. Choose the best answer for each question. You may take this quiz twice, and your higher score counts.</p>",
+ "questions": [
+  {
+   "name": "Question 1",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">The 1876 delegates set the governor's term at two years, set a low salary, and created no state police. Which fear best explains these choices?</p>",
+   "answers": [
+    {
+     "text": "That Texas had too few courts and judges to settle the disputes among its people.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "That a strong governor, like Davis, could misuse his power.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "That the federal army would leave Texas unprotected.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "That voters would not take part in elections.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 2",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Texas voters elect the lieutenant governor, attorney general, comptroller, and land commissioner separately, and the governor cannot fire them. What is the effect?</p>",
+   "answers": [
+    {
+     "text": "The governor controls every office in the executive branch.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The legislature chooses each of these officers in turn.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "These offices were taken out of the constitution in 1876.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The executive branch is divided, so no one person runs it.",
+     "html": "",
+     "weight": 100.0
+    }
+   ]
+  },
+  {
+   "name": "Question 3",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Section 1 of the 1876 constitution says Texas is subject to the United States Constitution but also says the Union depends on local self-government. What do the delegates seem to believe?</p>",
+   "answers": [
+    {
+     "text": "Texas should leave the Union a second time and stand alone again.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The national government in Washington should run all Texas public schools.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Texas belongs in the nation, but Texans must govern themselves at home.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Local governments should be done away with in favor of the state.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 4",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Why is the Texas Constitution much longer than the U.S. Constitution?</p>",
+   "answers": [
+    {
+     "text": "Its writers did not trust later leaders, so they put limits into the constitution itself.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "It was written by a very large group of delegates who wanted every state law listed in its text.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Texas needed every state law to be listed inside the constitution.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Congress required Texas to include all of these details in the text.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 5",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">A change to the Texas Constitution requires an amendment approved by voters. What is one result mentioned in the lesson?</p>",
+   "answers": [
+    {
+     "text": "The constitution has stayed exactly the same since 1876, so no amendment has ever been needed.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The governor can change the constitution alone whenever he sees fit.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Only the legislature votes on each amendment before it becomes law.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Voters have approved hundreds of amendments to keep up with a growing state.",
+     "html": "",
+     "weight": 100.0
+    }
+   ]
+  },
+  {
+   "name": "Question 6",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">The 1876 constitution required separate public schools for white and Black children. What does the lesson suggest about the limits the delegates wrote?</p>",
+   "answers": [
+    {
+     "text": "They were aimed at the governor, but they did not fall on the governor alone.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "They protected Black Texans from losing any of their rights and ended segregation in the public schools.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "They ended the segregation of the public schools across Texas.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "They applied only to government officials and not to the public.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 7",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">The state itself does not collect a property tax. Which level of government mainly does?</p>",
+   "answers": [
+    {
+     "text": "The Texas legislature in Austin.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The federal government in Washington.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "School districts, cities, and counties.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "The Railroad Commission of Texas.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,800 @@
+{
+ "kind": "quiz",
+ "title": "Week 36 Quarter 4 Exam",
+ "copy_title": "Week 36 Quarter 4 Exam (Unsparkled)",
+ "canvas_course": 275,
+ "copy_quiz_id": 6611,
+ "quiz_type": "assignment",
+ "allowed_attempts": 1,
+ "scoring_policy": "keep_highest",
+ "shuffle_answers": true,
+ "show_correct_answers": false,
+ "assignment_group_id": 619,
+ "description_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">This exam covers this quarter only. Choose the best answer for each question. You have one attempt.</p>",
+ "questions": [
+  {
+   "name": "Question 1",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">A farmer needed money months before the crop came in, so he bought goods on credit from a merchant who took a claim on the crop. What is this called?</p>",
+   "answers": [
+    {
+     "text": "A crop lien.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "A cooperative.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "A homestead.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "A bond.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 2",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Why does the Lampasas County origin of the Farmers' Alliance matter?</p>",
+   "answers": [
+    {
+     "text": "It was one of the places where a national farm protest movement began.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "It was the first capital of the Republic of Texas for a time.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It was the first railroad town to be built in the whole state.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It was the site of the last Populist convention before the party ended.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 3",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Which statement best explains why the Populist Party declined after 1896?</p>",
+   "answers": [
+    {
+     "text": "Cotton prices doubled, and the farmers lost their reasons to protest against the railroads.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Texas passed a law that outlawed all of the political parties.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Its members had backed a Democrat, and Democrats took up some of its ideas.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "The Alliance voted to break up the party after its defeat in 1896.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 4",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">What was the Railroad Commission created in 1891 to do?</p>",
+   "answers": [
+    {
+     "text": "To build new railroads for the state with public money.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "To run the Texas Rangers on the frontier in the 1890s.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "To oversee railroads and set the rates they could charge.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "To collect taxes from the farmers who lived along the rail lines.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 5",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Why did the Democratic primary matter so much for women's suffrage in Texas?</p>",
+   "answers": [
+    {
+     "text": "Primaries were open only to women voters, which let them choose all of the candidates for every office.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Winning the primary vote in 1918 let women vote in the real contest, before the national amendment.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Primaries had been ended by the legislature before the year 1918.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The primary was run by the Congress and not by the state of Texas.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 6",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Which fact best explains why the 1900 hurricane killed so many people in Galveston?</p>",
+   "answers": [
+    {
+     "text": "The island sat on top of a tall hill that the sea could not reach, and the city was well prepared.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "There were very few people living on the island in the year 1900.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The island was low, a surge of about fifteen feet covered it, and many had not left.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "The storm struck the island with no wind and only a little rain.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 7",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Which was part of Galveston's rebuilding?</p>",
+   "answers": [
+    {
+     "text": "A concrete seawall and raising the ground with sand pumped from the harbor.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "A new capitol building for the state in the middle of the island, built after the storm.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "A ban on ships using the harbor and a new set of port laws.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "A plan to move the whole city to higher land near Houston.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 8",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">What did Anthony Lucas need that Pattillo Higgins lacked before the Spindletop gusher?</p>",
+   "answers": [
+    {
+     "text": "A mining permit that had to be signed by Congress.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "A railroad line that ran from the hill into the town.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "More money, which he found from bankers in Pittsburgh.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "A partner who was chosen from among the Comanche people.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 9",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">What did the Houston Ship Channel make possible?</p>",
+   "answers": [
+    {
+     "text": "Houston became a seaside resort for tourists who came from Dallas, and it grew a large new beach front.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Galveston became the new capital of Texas after the storm of 1900.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Cattle drives became much easier to organize across the Brazos River.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Ocean ships could sail up to the city's docks, and Houston became a refining and shipping center.",
+     "html": "",
+     "weight": 100.0
+    }
+   ]
+  },
+  {
+   "name": "Question 10",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">What was Dad Joiner's discovery in October 1930?</p>",
+   "answers": [
+    {
+     "text": "A well that proved to be the first of an enormous oil field in East Texas.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "A coal mine under the streets of the city of Dallas, which became the center of the coal trade.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "A great gusher on the hill called Spindletop near Beaumont.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "A buried Spanish mission in the pine woods of Rusk County.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 11",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">What was the purpose of proration?</p>",
+   "answers": [
+    {
+     "text": "To raise taxes on the gasoline stations of the whole state and to pay for the new state roads.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "To make all oil drilling against the law in East Texas.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "To build more pipelines across the state to the East Coast.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "To limit how much oil each well could pump, so prices and pressure would not be ruined.",
+     "html": "",
+     "weight": 100.0
+    }
+   ]
+  },
+  {
+   "name": "Question 12",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Why did Dallas grow into a city of commerce even though it had no seaport?</p>",
+   "answers": [
+    {
+     "text": "It sat on the shore of the Gulf of Mexico, and ocean ships brought cotton to its docks.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Railroads crossed there, and its banks and insurers served nearby industries.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "It had the largest oil field in the whole of the world.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The army made it the capital city of the state of Texas.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 13",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Which statement best describes the effect of the Great Depression on Texas farmers?</p>",
+   "answers": [
+    {
+     "text": "Cotton prices rose sharply, and the farmers grew richer each year than they had been before.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Cotton fell below the cost of growing it, and many lost land or became tenants.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Farmers moved to the cities and ran the banks that failed there.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Farmers refused to plant any crops at all through the whole decade.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 14",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Why did the Texas state government offer little relief at first?</p>",
+   "answers": [
+    {
+     "text": "Its constitution limited spending and borrowing, and Texans did not look to government for help.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "It had no governor in office at any time during those years, and no one in Austin could ask for aid.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Federal law forbade the state from giving any relief to its people.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Its income tax was too high for the state to raise any more.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 15",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">The Rural Electrification Administration lent money to local cooperatives. What did that do?</p>",
+   "answers": [
+    {
+     "text": "It built new highways that crossed the whole of the state and linked the farms to the towns.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It brought electric lines to farms that private companies had passed over.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "It paid farmers to stop growing cotton on their poorest fields.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It set up the first radio stations in the cities of Texas.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 16",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Texans listened to the same radio programs as people in Georgia and Ohio. What does this show about Texas in the 1930s?</p>",
+   "answers": [
+    {
+     "text": "A national mass culture was beginning to reach Texas.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Texas had banned all of the national radio programs.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Radio had no effect on the way of life in Texas.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Texans refused to listen to music of any kind.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 17",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Why were shipyards on the Gulf Coast and aircraft plants in Fort Worth and Dallas important to the war?</p>",
+   "answers": [
+    {
+     "text": "They supplied the Confederate army with its guns and its food during the whole of the long war.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "They built ships and bombers and brought many workers, including women, into new jobs.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "They guarded the long Mexican border against raids and smugglers.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "They took over the work that had been done by the Railroad Commission.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 18",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Why did Mexico keep braceros out of Texas at first?</p>",
+   "answers": [
+    {
+     "text": "Because of how Mexican workers and Mexican Americans were treated in Texas.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Because Texas had no farms that needed any extra workers, and so did not ask for any of them.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Because Mexico needed all of those workers to stay at home.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Because Texas had chosen to run its own separate program.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 19",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Many historians call World War II the completion of the \"Americanization of Texas.\" Which fact supports this?</p>",
+   "answers": [
+    {
+     "text": "Texas rejoined the country of Mexico after the war was over, and all Texans became citizens of Mexico.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Texans gave up speaking English and spoke only in Spanish.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Texas left the Union a second time when the war was won.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Texans served in the same army, paid the same taxes, and read the same news as other Americans.",
+     "html": "",
+     "weight": 100.0
+    }
+   ]
+  },
+  {
+   "name": "Question 20",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Which pair of facts best explains why Texas became an urban Sunbelt state after the war?</p>",
+   "answers": [
+    {
+     "text": "Cold winters drove people south, and cotton prices were high, so farm families moved to the cities.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Rivers dried up, and the oil industry was banned by law.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Air conditioning made summers livable, and cheap land and jobs drew workers.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "New railroads opened, and the army grew far larger in size.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 21",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">What did the Supreme Court rule in Sweatt v. Painter?</p>",
+   "answers": [
+    {
+     "text": "Black students could not be allowed to attend any law school, and Sweatt had to leave Texas.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The hurried separate law school was not equal, and Sweatt had to be admitted.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "The University of Texas had to close its law school for good.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Texas had to end segregation in all of its public schools at once.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 22",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Which group was founded in 1948 to defend the rights of Mexican American veterans?</p>",
+   "answers": [
+    {
+     "text": "LULAC.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The Populist Party.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The Texas Equal Rights Association.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The American G.I. Forum.",
+     "html": "",
+     "weight": 100.0
+    }
+   ]
+  },
+  {
+   "name": "Question 23",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Why did American technology companies form the MCC?</p>",
+   "answers": [
+    {
+     "text": "To compete with the Texas oil industry for workers and money.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "To build a new seaport for the state on the Gulf coast.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "To train new recruits for the Texas Rangers in Austin.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "To answer Japan's plan for new computers by sharing research.",
+     "html": "",
+     "weight": 100.0
+    }
+   ]
+  },
+  {
+   "name": "Question 24",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">What helped make Austin a city of live music?</p>",
+   "answers": [
+    {
+     "text": "A seaport and a number of large factories along the river that brought in many workers.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The Armadillo, Austin City Limits, SXSW, and a large student audience.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "A government ban on all concerts held in the city limits.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "A lack of any colleges or universities within the whole city.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 25",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">What were maquiladoras?</p>",
+   "answers": [
+    {
+     "text": "Cattle ranches in South Texas that raised longhorn cattle for the markets of the North.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Army forts that were built along the Rio Grande in the 1800s.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Factories in Mexico, often near the border, that assemble goods for export.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Oil refineries on the Gulf Coast near Houston and Beaumont.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 26",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Which statement best describes NAFTA as the lesson tells it?</p>",
+   "answers": [
+    {
+     "text": "It created one single government to rule all of North America, and ended the old national borders.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It removed most tariffs among three countries, and both sides found evidence for their views.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "It ended all of the trade between Texas and the country of Mexico.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It made the state of Texas leave the Union for a second time.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 27",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Which sequence shows how Texas politics changed?</p>",
+   "answers": [
+    {
+     "text": "Reagan lost Texas in 1980, and Tower did not win until 1998 when he beat the governor then in office.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Republicans won every statewide office in the year 1961, with Tower.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Democrats won every statewide office in Texas after the year 1998.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Tower won in 1961, Reagan carried Texas in 1980, and Republicans swept every office in 1998.",
+     "html": "",
+     "weight": 100.0
+    }
+   ]
+  },
+  {
+   "name": "Question 28",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Which of the following is an example of Texas diverging from the nation after about 1970?</p>",
+   "answers": [
+    {
+     "text": "The national draft that began before the war and took many of the young men from Texas.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The New Deal programs of the 1930s that brought federal money and jobs into Texas towns.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The national radio programs that were heard in every town across the whole country.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Its own electric grid, run separately from the large national grids.",
+     "html": "",
+     "weight": 100.0
+    }
+   ]
+  }
+ ]
+}

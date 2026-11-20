@@ -1,0 +1,856 @@
+{
+ "kind": "quiz",
+ "title": "Week 27 Quarter 3 Exam",
+ "copy_title": "Week 27 Quarter 3 Exam (Unsparkled)",
+ "canvas_course": 275,
+ "copy_quiz_id": 6563,
+ "quiz_type": "assignment",
+ "allowed_attempts": 1,
+ "scoring_policy": "keep_highest",
+ "shuffle_answers": true,
+ "show_correct_answers": false,
+ "assignment_group_id": 619,
+ "description_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">This exam covers Quarter 3 only, Weeks 19 to 27. Choose the best answer for each question. You have one attempt.</p>",
+ "questions": [
+  {
+   "name": "Question 1",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Why did annexation in 1845 not settle where Texas ended in the southwest?</p>",
+   "answers": [
+    {
+     "text": "Congress annexed Texas but left the exact border to be worked out with Mexico.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Mexico had already agreed that the Nueces River was the border, so only Texas disagreed about it.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Texas had no claim at all to the land along the Río Grande.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The border had been set by the treaty that was signed in 1848.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 2",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Which result of the Treaty of Guadalupe Hidalgo ended the argument that began the war?</p>",
+   "answers": [
+    {
+     "text": "The Nueces became the border, and Texas gave up the disputed strip.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The Río Grande became the border, and Mexico gave up its claim to Texas.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "The United States gave California back to Mexico in return for peace.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Texas was returned to Mexico as a province of the Mexican republic.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 3",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">At Cerro Gordo, Robert E. Lee helped win the battle. What did he do?</p>",
+   "answers": [
+    {
+     "text": "He led the charge up the steep hill at the castle of Chapultepec.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "He arranged the surrender of the port city of Veracruz to Scott.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "He captured General Santa Anna in the field and ended the war.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "He scouted the hills and found a path around the Mexican position.",
+     "html": "",
+     "weight": 100.0
+    }
+   ]
+  },
+  {
+   "name": "Question 4",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Polk let Santa Anna pass through the blockade hoping he would make peace, but Santa Anna took command of the Mexican army instead. What does this show?</p>",
+   "answers": [
+    {
+     "text": "Polk wanted the war to go on for many more years, so he sent Santa Anna home on purpose.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Santa Anna was loyal to the United States and meant to help it.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The navy had never set up a blockade of the Mexican coast.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "One choice, and some chance, helped create the army Scott had to fight.",
+     "html": "",
+     "weight": 100.0
+    }
+   ]
+  },
+  {
+   "name": "Question 5",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">In 1850, Texas gave up claims in the west and received $10 million. How did this change Texas's finances?</p>",
+   "answers": [
+    {
+     "text": "It forced Texas to leave the Union and to become independent again.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It gave Texas control over all of the land that became New Mexico.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It helped pay off debts left over from the days of the Republic.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "It ended the need for the state to collect any taxes at all.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 6",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">In 1832 South Carolina tried nullification, and Jackson refused to accept it. How did the crisis end?</p>",
+   "answers": [
+    {
+     "text": "A lower tariff ended the crisis, though Calhoun's idea lived on.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Jackson sent in troops and broke up the Union for good.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "South Carolina left the Union that year and formed a new country.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The Supreme Court ended all tariffs and the quarrel ended with them.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 7",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">After the Dred Scott decision of 1857, many Northerners were furious and many Southerners felt safer. What did the decision say?</p>",
+   "answers": [
+    {
+     "text": "Congress could not ban slavery in the territories, and Black Americans could not be citizens.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Slavery was banned in every territory of the nation by this ruling, and Black citizens won new rights.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Black Americans were declared full citizens of the nation by the Court.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Texas was told by the Court that it could never secede from the Union.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 8",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">The Secession Convention voted 166 to 8, but the later popular vote showed that some Texans voted no. What does this combination show?</p>",
+   "answers": [
+    {
+     "text": "No Texans at all supported the idea of leaving the Union, and the leaders were all against it.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The popular vote was never held in any part of Texas.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Texans were not unanimous, even though their leaders were nearly so.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Every county in the state voted in exactly the same way.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 9",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Why is the Declaration of Causes important evidence about why Texas left the Union?</p>",
+   "answers": [
+    {
+     "text": "It was written by Sam Houston while he was governor, and it gave his reasons for opposing the move.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It said Texas left the Union mainly because of a new tariff.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It was kept secret from the public and was never printed.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It gave the reasons in the leaders' own words, and it named slavery again and again.",
+     "html": "",
+     "weight": 100.0
+    }
+   ]
+  },
+  {
+   "name": "Question 10",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Which fact about the 1st Texas at Antietam shows how dangerous the Texans' role in Lee's army was?</p>",
+   "answers": [
+    {
+     "text": "It did not take part in the battle at Antietam at all.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It surrendered to the Union army without firing a single shot.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It lost more than 80 of every 100 men in a single day.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "It lost fewer than ten men in the whole of the fight.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 11",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Confederate cotton went through Matamoros rather than Gulf ports. What problem was this route meant to solve?</p>",
+   "answers": [
+    {
+     "text": "Cotton had become too costly for Texans to grow, so they sold it only to buyers within the state.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The Union blockade made it hard to sell cotton from Confederate ports.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Mexico had banned the sale of all cotton to foreign ships.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Railroads had replaced ships for all of the trade out of Texas.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 12",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">The Battle of Palmito Ranch was fought more than a month after Lee's surrender. What can you infer about the war in the Trans-Mississippi?</p>",
+   "answers": [
+    {
+     "text": "It was far from Richmond and Washington, so orders and news were slow to arrive.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "The war had never really ended in Virginia, and Lee himself planned and ordered the battle in Texas.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Texas had already won the war and no longer had to fight.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Lee had planned the battle himself and ordered it from Virginia.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 13",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Why did Congress require Texas to approve the 13th, 14th, and 15th Amendments?</p>",
+   "answers": [
+    {
+     "text": "They ended the draft, created public schools, and set up the Freedmen's Bureau to hand out food.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "They set up the Freedmen's Bureau and paid for the public schools.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "They gave women the vote and ended the poll tax in Texas.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "They ended slavery, made Black Americans citizens, and protected Black men's vote.",
+     "html": "",
+     "weight": 100.0
+    }
+   ]
+  },
+  {
+   "name": "Question 14",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">After Redemption in 1874, the Democratic government cut state spending and ended Davis's state police. What does this show about the new leaders' aims?</p>",
+   "answers": [
+    {
+     "text": "They wanted a stronger governor with a larger police force and more power.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "They wanted more federal troops to be stationed in every county.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "They wanted elections to be held less often than they had been.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "They wanted a smaller, cheaper government and a limit on the executive.",
+     "html": "",
+     "weight": 100.0
+    }
+   ]
+  },
+  {
+   "name": "Question 15",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Which feature of the 1876 constitution most clearly reflects fear of a strong governor?</p>",
+   "answers": [
+    {
+     "text": "A four-year term and the power to appoint all of the judges.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "A two-year term, a low salary, and no state police.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "A state police force that took its orders from the governor.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "A governor who is allowed to fire any elected state officer.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 16",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">A county commissioners court is called a court, but it is not one. What does it do?</p>",
+   "answers": [
+    {
+     "text": "It hears criminal cases and decides whether the accused is guilty.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It chooses the governor and the other officers for the whole state.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It sets the county budget and tax rate and builds county roads.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "It writes the laws that apply to every person in the nation.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 17",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Which source of revenue does the state not collect?</p>",
+   "answers": [
+    {
+     "text": "A sales tax.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "A property tax.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Taxes on oil and gas.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Fees such as driver's licenses.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 18",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Put the events in order: the poll tax, Smith v. Allwright, and the end of the Texas poll tax. Which sequence is correct?</p>",
+   "answers": [
+    {
+     "text": "1902, 1944, 1966.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "1944, 1902, 1966.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "1966, 1944, 1902.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "1902, 1966, 1944.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 19",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Barbara Jordan won election to the U.S. House of Representatives in 1972. What was notable about this?</p>",
+   "answers": [
+    {
+     "text": "She was the first Texan ever to be elected to Congress at all.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "She became Speaker of the House of Representatives that same year.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "She was the first Black woman from the South elected to the House.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "She was elected president of the United States in the next election.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 20",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Which fact shows how far Comanche riders could reach as late as 1840?</p>",
+   "answers": [
+    {
+     "text": "They captured the capital at Austin and held it for a week.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "They signed a peace with the whole of Texas at San Antonio.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "They left Texas for good and moved north into Kansas.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "They rode to the Gulf coast at Linnville and burned the town.",
+     "html": "",
+     "weight": 100.0
+    }
+   ]
+  },
+  {
+   "name": "Question 21",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Why did the Colt revolver change the way Rangers fought on horseback?</p>",
+   "answers": [
+    {
+     "text": "It was much lighter than the bow and arrow that was used then.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It needed no ammunition of any kind in order to be fired.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It could be used only by a soldier who was standing on foot.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "A rider could fire again and again without stopping to reload.",
+     "html": "",
+     "weight": 100.0
+    }
+   ]
+  },
+  {
+   "name": "Question 22",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">English words such as lariat, and the practice of the dally, come from Spanish. What do they show?</p>",
+   "answers": [
+    {
+     "text": "Spanish was the first language that the German settlers spoke, and they taught it to the cowboys.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The Texas cowboy inherited tools, skills, and words from the vaquero tradition.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Texans had no cattle at all in the state before the year 1850.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Cowboys first came to Texas from Europe in the middle of the 1800s.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 23",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">German Hill Country settlers smoked sausage and beef in smokehouses. What does the lesson connect this to?</p>",
+   "answers": [
+    {
+     "text": "The barbecue tradition of Central Texas.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "The cattle drives that went north to the railheads in Kansas.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The sale of Texas cotton to the mills of Europe.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The first Texas Ranger companies of the Republic.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 24",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Juan Cortina said that Tejanos had lost land and been treated unjustly. How did Texas respond?</p>",
+   "answers": [
+    {
+     "text": "It gave Tejano families new titles to the land they had lost, and it then asked Cortina to go home.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It signed a treaty of peace with Cortina and left him in power.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It sent Rangers under Rip Ford, who worked with U.S. soldiers to drive him across the river.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "It elected Cortina governor of the state to settle the quarrel.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 25",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Mackenzie's men shot most of the 1,400 horses captured at Palo Duro Canyon. Why was this more damaging than killing warriors would have been?</p>",
+   "answers": [
+    {
+     "text": "Without horses, a Plains people could not hunt or move, and the band could not survive.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Horses were sacred to the Texans, who held that no one should kill one, even in time of war.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It broke the terms of the Medicine Lodge treaty that had just been signed.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It made the Comanche wealthy in horses and gave them new strength.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 26",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">What did Quanah Parker do after his surrender in 1875?</p>",
+   "answers": [
+    {
+     "text": "He went back to the Llano Estacado and rebuilt the old bands, and led a new war against the Texans.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "He joined the Texas Rangers as a scout and left the reservation.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "He left no record of his life and passed from history at once.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "He adapted, learning English, leasing grazing land, and speaking for his people in Washington.",
+     "html": "",
+     "weight": 100.0
+    }
+   ]
+  },
+  {
+   "name": "Question 27",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">The windmill and, later, deep wells changed the plains. Which statement is supported by the lesson?</p>",
+   "answers": [
+    {
+     "text": "The plains had plenty of rivers that ran all year long, so ranchers did not need windmills or deep wells at all.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Water was the big problem on the Llano Estacado, and pumping solved it, though the aquifer refills slowly.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Windmills brought more rain to the plains and ended the dry years.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The Ogallala aquifer can never run low, no matter how much is used.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 28",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">A steer worth a few dollars in Texas could bring about ten times as much in a Northern city. What does this explain?</p>",
+   "answers": [
+    {
+     "text": "Why Texas banned the sale of cattle outside the state in 1866.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Why drives to railheads such as Abilene were worth the risk.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Why Kansas welcomed Texas fever and the herds that carried it.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Why the Comanche stopped raiding and took up ranching in 1867.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 29",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Barbed wire and the windmill changed the range. Which result is described in the lesson?</p>",
+   "answers": [
+    {
+     "text": "Open-range ranching became easier for the small owners in Texas, who now had more land to graze.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Cowboys became the owners of the large ranches that they had worked.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The open range closed, and ranching became a business that hired wage workers.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "The legislature encouraged fence cutting as a way to protect the range.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 30",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Why did Governor Hogg sign a law in 1891 limiting how much land foreign owners could hold?</p>",
+   "answers": [
+    {
+     "text": "Texas had no land left to be sold, so the state needed a way to bring in money.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Texans worried about distant companies owning so much of the state.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "The Comanche still owned the land in the Panhandle region.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The U.S. Army needed the land for building new frontier forts.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  }
+ ]
+}

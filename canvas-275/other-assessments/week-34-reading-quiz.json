@@ -1,0 +1,212 @@
+{
+ "kind": "quiz",
+ "title": "Week 34 Reading Quiz",
+ "copy_title": "Week 34 Reading Quiz (Unsparkled)",
+ "canvas_course": 275,
+ "copy_quiz_id": 6604,
+ "quiz_type": "assignment",
+ "allowed_attempts": 2,
+ "scoring_policy": "keep_highest",
+ "shuffle_answers": true,
+ "show_correct_answers": false,
+ "assignment_group_id": 617,
+ "description_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Read both lessons before you start. Choose the best answer for each question. You may take this quiz twice, and your higher score counts.</p>",
+ "questions": [
+  {
+   "name": "Question 1",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Why did American computer companies form the MCC in 1983?</p>",
+   "answers": [
+    {
+     "text": "The federal government ordered them to merge into one company that would be run by the army.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "They wanted to move their factories to Mexico to cut their costs.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The University of Texas needed money from them to build new labs.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "They worried that Japan's plan for new computers would let it take the lead.",
+     "html": "",
+     "weight": 100.0
+    }
+   ]
+  },
+  {
+   "name": "Question 2",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Austin won MCC over cities such as Atlanta and San Diego. What helped it win?</p>",
+   "answers": [
+    {
+     "text": "Austin already had more computer factories than any rival city, so it won without making any offer.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The University of Texas, the governor, and local leaders joined to make an offer.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Austin had a seaport where large ships could dock and unload goods.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Austin was at that time the capital of the whole United States.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 3",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">MCC's research had mixed success. Why does the lesson still say it mattered to Austin?</p>",
+   "answers": [
+    {
+     "text": "It beat Japan's computer project and won the race outright.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The people it brought stayed, and some started new companies.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "It built the city's main airport and its largest highway.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It made Dell Computer into an agency of the Texas government.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 4",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">In 2000 and 2001, many Austin internet companies failed, and the industry recovered. What does this suggest about Austin's tech sector?</p>",
+   "answers": [
+    {
+     "text": "Technology companies never fail when they are located in a college town, and Austin's firms did not fail.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Austin had no tech workers left in the city after the year 2001.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "A city built on a new industry must be ready for swings, but skilled workers helped it recover.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "The University closed its engineering school after the internet bust ended.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 5",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Audiences at the Armadillo included college students, hippies, and ranchers. What does this show about Austin's music scene?</p>",
+   "answers": [
+    {
+     "text": "It kept students out of its shows and played only for adults who came from other parts of the state.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It played only classical music in the old armory building at night.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It crossed lines between rock fans and country fans that kept other Texas scenes apart.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "It was run by the big Nashville studios and sent its profits there.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 6",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Austin City Limits began regular broadcasts in 1975. How did it help Austin's music?</p>",
+   "answers": [
+    {
+     "text": "It showed viewers across the country what was happening in Austin.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "It put an end to outlaw country music in the state and sent its singers back to Nashville.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It kept the local bands from ever going out on tour.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It was shown only inside the city limits of Austin.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 7",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Why do students play such a large part in Austin's live-music scene?</p>",
+   "answers": [
+    {
+     "text": "The university bans musicians from performing on or near its campus.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Tens of thousands of undergraduates make a ready audience on any night.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Students are paid by the city to play at all of the clubs.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The state forbids bands from touring anywhere outside of Austin.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  }
+ ]
+}

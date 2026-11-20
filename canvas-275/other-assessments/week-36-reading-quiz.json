@@ -1,0 +1,184 @@
+{
+ "kind": "quiz",
+ "title": "Week 36 Reading Quiz",
+ "copy_title": "Week 36 Reading Quiz (Unsparkled)",
+ "canvas_course": 275,
+ "copy_quiz_id": 6610,
+ "quiz_type": "assignment",
+ "allowed_attempts": 2,
+ "scoring_policy": "keep_highest",
+ "shuffle_answers": true,
+ "show_correct_answers": false,
+ "assignment_group_id": 617,
+ "description_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Read both lessons before you start. Choose the best answer for each question. You may take this quiz twice, and your higher score counts.</p>",
+ "questions": [
+  {
+   "name": "Question 1",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">The Texas electric grid is mostly separate from the national grids. Which statement best fits the lesson?</p>",
+   "answers": [
+    {
+     "text": "It is run directly by the federal government in Washington, which sets its rules and prices each year.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It was built for the first time after the winter storm of 2021.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It ties Texas closely to the grids of every other state.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It is mostly free from federal oversight, but it cannot easily borrow power from other states.",
+     "html": "",
+     "weight": 100.0
+    }
+   ]
+  },
+  {
+   "name": "Question 2",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Which change in the 1930s helped bring Texas closer to the rest of the nation?</p>",
+   "answers": [
+    {
+     "text": "The closing of the Rio Grande border to all trade and travel, which ended the Mexican trade.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The New Deal, which brought federal jobs, electricity, and farm programs.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "The end of the oil industry and the loss of its jobs.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The creation of a separate Texas currency and Texas banks.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 3",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Which of these is an example of divergence after about 1970?</p>",
+   "answers": [
+    {
+     "text": "Texas voters turned toward the Republican Party and a smaller role for Washington.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Texans joined the national draft for the first time in their history, and so became more alike.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Radio reached nearly every Texas town and farm by the 1930s.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Texas stopped trading with Mexico and with the other states.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 4",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">The Rio Grande water treaty of 1944 has become a source of tension in droughts. Why?</p>",
+   "answers": [
+    {
+     "text": "The river dried up completely in the year 1944 and never returned.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The treaty banned all farming along both banks of the river.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It is a shared resource, and droughts make both sides want more of it.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Mexico refused to sign the treaty, and Texas ignored it.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 5",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Texas is the nation's biggest exporter, and Mexico is its biggest customer. What does this show about the border?</p>",
+   "answers": [
+    {
+     "text": "The border is closed to trade of every kind and for everyone.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Mexico buys almost nothing that is made or grown in Texas.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Trade has tied the Texas and Mexican economies closely together.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Texas depends mainly on its trade with Canada and with Europe.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 6",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Which statement best sums up the lesson's answer to whether Texas is just another American state?</p>",
+   "answers": [
+    {
+     "text": "Texas is deeply part of the nation and still has its own identity.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Texas is exactly like every other state in the whole country.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Texas is completely separate from the nation in every respect.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Texas stopped being distinct from other states around the year 1900.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  }
+ ]
+}

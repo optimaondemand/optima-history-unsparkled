@@ -1,0 +1,212 @@
+{
+ "kind": "quiz",
+ "title": "Week 35 Reading Quiz",
+ "copy_title": "Week 35 Reading Quiz (Unsparkled)",
+ "canvas_course": 275,
+ "copy_quiz_id": 6607,
+ "quiz_type": "assignment",
+ "allowed_attempts": 2,
+ "scoring_policy": "keep_highest",
+ "shuffle_answers": true,
+ "show_correct_answers": false,
+ "assignment_group_id": 617,
+ "description_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Read both lessons before you start. Choose the best answer for each question. You may take this quiz twice, and your higher score counts.</p>",
+ "questions": [
+  {
+   "name": "Question 1",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">After the Bracero Program ended in 1964, the number of immigrants without legal papers rose. Which fact best explains this?</p>",
+   "answers": [
+    {
+     "text": "Mexico stopped allowing anyone at all to leave the country for work, so the farm program simply ended.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Farmers no longer needed any workers because machines did all the work.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Texas banned all farm work for people who were born outside the state.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Farmers still wanted workers and workers wanted jobs, but a legal way to come was gone for many.",
+     "html": "",
+     "weight": 100.0
+    }
+   ]
+  },
+  {
+   "name": "Question 2",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">How did maquiladoras tie the border economies together?</p>",
+   "answers": [
+    {
+     "text": "They sold large tracts of land in Texas to Mexican companies, who built farms and homes on it.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "They assembled goods in Mexico from American parts and sent the finished goods back.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "They taught English in the public schools of northern Mexico.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "They built the dams along the Rio Grande to supply water.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 3",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">The lesson says supporters and critics of NAFTA both found evidence for their views. What does this suggest?</p>",
+   "answers": [
+    {
+     "text": "NAFTA had no effect on the trade among the three countries, so nothing changed after it began.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "All economists agreed from the start that the agreement was a failure.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The effects of the agreement were mixed, and people weighed them differently.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Only Texans were affected by the agreement, and no one else.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 4",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Thousands of families live in colonias that often lack paved roads and clean water. What does this show about border growth?</p>",
+   "answers": [
+    {
+     "text": "The border has no families living on it today.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Growth did not reach everyone.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "The government has already solved all of these problems.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Growth along the border stopped during the 1980s.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 5",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">John Tower's win in 1961 was the first Republican victory for a Texas Senate seat since Reconstruction. What did it suggest?</p>",
+   "answers": [
+    {
+     "text": "That Texans might be willing to vote for a Republican.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "That Democrats had left Texas for good and would never win another race.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "That Lyndon Johnson had joined the Republicans.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "That the Senate seat had been abolished.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 6",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">In 1970 Lloyd Bentsen beat Ralph Yarborough in the Democratic primary. What does this show about Texas Democrats?</p>",
+   "answers": [
+    {
+     "text": "Conservative and liberal Democrats competed inside the same party.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Republicans had won the Democratic party's primary election outright.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Texas no longer had any Democrats left in the state.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Yarborough was a very conservative member of the Democratic party.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 7",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Some historians argue that the Republican turn was \"an old Texas outlook finding a new party.\" Which fact from the lesson supports that view?</p>",
+   "answers": [
+    {
+     "text": "Texas had always voted for Republican candidates in every election, and never for any Democrat.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Texans had no opinion at all about taxes or about spending.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Texas leaders had never paid any attention to what Washington did.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Texas had a long tradition of self-reliance and distrust of distant government.",
+     "html": "",
+     "weight": 100.0
+    }
+   ]
+  }
+ ]
+}

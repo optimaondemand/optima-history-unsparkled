@@ -1,0 +1,212 @@
+{
+ "kind": "quiz",
+ "title": "Week 27 Reading Quiz",
+ "copy_title": "Week 27 Reading Quiz (Unsparkled)",
+ "canvas_course": 275,
+ "copy_quiz_id": 6558,
+ "quiz_type": "assignment",
+ "allowed_attempts": 2,
+ "scoring_policy": "keep_highest",
+ "shuffle_answers": true,
+ "show_correct_answers": false,
+ "assignment_group_id": 617,
+ "description_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Read both lessons before you start. Choose the best answer for each question. You may take this quiz twice, and your higher score counts.</p>",
+ "questions": [
+  {
+   "name": "Question 1",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">A steer sold for a few dollars in Texas and about ten times as much in Northern cities after the Civil War. What does this best explain?</p>",
+   "answers": [
+    {
+     "text": "Why Texans drove herds north to a railhead, since carrying cattle to market earned a profit.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Why Texans stopped raising cattle altogether when the Civil War came to an end and prices were low.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Why railroads were built across the whole state of Texas well before the war.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Why the Comanche raided the largest ranches in the years after the war.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 2",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Why did some drives shift west from the Chisholm Trail onto the Western Trail toward Dodge City?</p>",
+   "answers": [
+    {
+     "text": "The Chisholm Trail ran out of grass for the cattle after one season.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The Red River dried up each summer and could not be crossed.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Kansas, worried about Texas fever, closed more of its land to Texas herds.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Abilene lost its railroad connection when the company moved its tracks away.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 3",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">In the Mason County War, quarrels over cattle led to killings. Which condition of the open range helped cause trouble?</p>",
+   "answers": [
+    {
+     "text": "Every ranch was fenced in and guarded by armed riders each night, so cattle were never mixed up.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Texas had strict courts that sat in session in every county.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Rangers were stationed at every ranch to guard against cattle thieves.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Cattle wandered and brands were hard to check, so unbranded calves could be claimed by anyone.",
+     "html": "",
+     "weight": 100.0
+    }
+   ]
+  },
+  {
+   "name": "Question 4",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">In 1883 angry cowboys and small ranchers cut fences across Texas in a drought year. What best explains their anger?</p>",
+   "answers": [
+    {
+     "text": "Fences cut off trails and water holes that had been free to everyone.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Fences made the cattle weaker and slower on the trails north.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The new fences were built of wood and cost far too much.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Ranchers wanted barbed wire banned across the border in neighboring Kansas.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 5",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Walter Prescott Webb argued that three tools made it possible to settle the dry Great Plains. Which set is correct?</p>",
+   "answers": [
+    {
+     "text": "The Colt revolver, barbed wire, and the windmill.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "The railroad, the telegraph, and the steam engine.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The plow, the saddle, and the rope.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The chuck wagon, the reata, and the brand.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 6",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">In the days of the drives many cowboys hoped to start their own herds, but by the 1880s most worked for a wage. What evidence in the lesson shows the change?</p>",
+   "answers": [
+    {
+     "text": "Cowboys became the owners of the large XIT Ranch in the Panhandle.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "A strike by cowboys for higher pay in 1883 failed when the owners refused.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Cowboys were paid a share of the profits from every ranch they worked.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Governor Hogg set the wages that every cowboy in Texas was to receive.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 7",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Texas traded three million acres of Panhandle land for a new capitol, and a Chicago group turned it into the XIT Ranch. What does this show about Texas ranching?</p>",
+   "answers": [
+    {
+     "text": "The state wanted ranching to stay small and local, so it refused to sell any of its land to outsiders.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Ranching had become a business that needed outside money, and a state short of cash paid in land.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "The great trail drives had come to an end in the year 1866.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Only people born in Texas were allowed by law to own Texas land.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  }
+ ]
+}

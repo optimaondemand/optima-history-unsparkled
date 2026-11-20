@@ -1,0 +1,46 @@
+{
+ "kind": "quiz",
+ "title": "Week 29 Module Intro",
+ "copy_title": "Week 29 Module Intro (Unsparkled)",
+ "canvas_course": 275,
+ "copy_quiz_id": 6588,
+ "quiz_type": "survey",
+ "allowed_attempts": 1,
+ "scoring_policy": "keep_highest",
+ "shuffle_answers": false,
+ "show_correct_answers": true,
+ "assignment_group_id": null,
+ "description_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Before you open this week's lessons, read the Module Map, then answer these two questions. This survey is not graded, and a guess is fine. Your teacher reads the answers to see what the class already thinks.</p>",
+ "questions": [
+  {
+   "name": "Essential question",
+   "type": "essay_question",
+   "points": 0.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">This week's essential question is: How did a hurricane and an oil gusher change which Texas city led the twentieth century? Write two or three sentences with your best first answer, even if it is a guess.</p>",
+   "answers": []
+  },
+  {
+   "name": "Module Map",
+   "type": "multiple_choice_question",
+   "points": 0.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Have you read this week's Module Map, and do you know what you need to turn in?</p>",
+   "answers": [
+    {
+     "text": "Yes, I have read it and I know what is due.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "I read it, but I have a question about what is due.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Not yet. I will read it now.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,212 @@
+{
+ "kind": "quiz",
+ "title": "Week 23 Reading Quiz",
+ "copy_title": "Week 23 Reading Quiz (Unsparkled)",
+ "canvas_course": 275,
+ "copy_quiz_id": 6574,
+ "quiz_type": "assignment",
+ "allowed_attempts": 2,
+ "scoring_policy": "keep_highest",
+ "shuffle_answers": true,
+ "show_correct_answers": false,
+ "assignment_group_id": 617,
+ "description_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Read both lessons before you start. Choose the best answer for each question. You may take this quiz twice, and your higher score counts.</p>",
+ "questions": [
+  {
+   "name": "Question 1",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">The poll tax was a small fee to some people and a large one to others. Which groups does the lesson say could not easily afford it?</p>",
+   "answers": [
+    {
+     "text": "Only wealthy landowners and merchants in the largest cities, who were taxed more than anyone else.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Only people who lived in the Hill Country and near the coast.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Many Black Texans, many Mexican Americans, and many poor white farmers.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Only women, until they won the right to vote in 1919.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 2",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">In much of the 1900s, the Democratic primary often decided who would hold office in Texas. Why did that make the white primary so powerful?</p>",
+   "answers": [
+    {
+     "text": "Primary elections were against the law in Texas, so only the general election mattered at all.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Republicans always won the Democratic primary by a large margin.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The primary was held only one time in every ten years.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Keeping Black voters out of the primary kept them out of the real contest.",
+     "html": "",
+     "weight": 100.0
+    }
+   ]
+  },
+  {
+   "name": "Question 3",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">In Smith v. Allwright (1944), what did the Supreme Court decide?</p>",
+   "answers": [
+    {
+     "text": "The Court decided that the poll tax must be ended in every county of the state.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Women could vote in primary elections in Texas.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The voting age should be lowered from 21 to 18.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "A party could not keep voters out of a primary because of race.",
+     "html": "",
+     "weight": 100.0
+    }
+   ]
+  },
+  {
+   "name": "Question 4",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">A teachers' association meets with lawmakers to argue for a bill about school funding. Which description fits?</p>",
+   "answers": [
+    {
+     "text": "It is a political party, because it works to win elections and to place its own members in office.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It is an interest group, because it tries to shape one issue rather than win elections.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "It is a jury, because it hears evidence and decides what the facts are.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It is a commissioners court, because it sets a county budget and tax rate.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 5",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">In 1941 the House extended the draft by a single vote, 203 to 202, after Sam Rayburn worked to hold his members together. What can you infer?</p>",
+   "answers": [
+    {
+     "text": "The draft had very little effect on the strength of the army.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Rayburn opposed extending the draft and voted against it himself.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Without that vote, the army might have fallen apart before Pearl Harbor.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Texas leaders had very little influence over the decisions made in Washington.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 6",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Which statement best sums up what the four leaders had in common?</p>",
+   "answers": [
+    {
+     "text": "Great wealth and fame from a very young age, along with a wish to be famous above all else.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Preparation, courage, persistence, and service to something bigger than themselves.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "A strong wish to hold office for its own sake and no other.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "A refusal to work with anyone who belonged to another party.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 7",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Eisenhower was born in Denison, Texas, but his family moved to Kansas when he was a toddler. Which statement is best supported?</p>",
+   "answers": [
+    {
+     "text": "He is tied to Texas by birth, though he grew up elsewhere.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "He served for years as a senator from Texas, though he was born in Kansas.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "He was born in a small town in Kansas.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "He taught Mexican American children in Cotulla.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  }
+ ]
+}

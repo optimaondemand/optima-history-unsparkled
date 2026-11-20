@@ -1,0 +1,212 @@
+{
+ "kind": "quiz",
+ "title": "Week 28 Reading Quiz",
+ "copy_title": "Week 28 Reading Quiz (Unsparkled)",
+ "canvas_course": 275,
+ "copy_quiz_id": 6586,
+ "quiz_type": "assignment",
+ "allowed_attempts": 2,
+ "scoring_policy": "keep_highest",
+ "shuffle_answers": true,
+ "show_correct_answers": false,
+ "assignment_group_id": 617,
+ "description_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Read both lessons before you start. Choose the best answer for each question. You may take this quiz twice, and your higher score counts.</p>",
+ "questions": [
+  {
+   "name": "Question 1",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Cotton farmers who grew more cotton to pay their debts only pushed prices lower. What does this show about the crop-lien system?</p>",
+   "answers": [
+    {
+     "text": "Farmers were paid more money for every extra bale of cotton they grew.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Farmers were caught in a cycle where working harder made things worse.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Merchants refused to give any credit to farmers in the spring.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Cotton prices rose steadily every year after the year 1880.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 2",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">The Farmers' Alliance began in Lampasas County in 1877 and spread quickly. What best explains its rapid spread?</p>",
+   "answers": [
+    {
+     "text": "It was started and paid for by the railroads in Texas.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Farmers in nearly every county faced the same debts and low prices.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "The legislature passed a law that required every farmer to join.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It promised a free grant of land to each new member.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 3",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">The Texas Exchange, a cooperative started in 1887, ran short of money because bankers would not lend to it. What does this suggest about the farmers' position?</p>",
+   "answers": [
+    {
+     "text": "Bankers were eager to help the Alliance, and they lent it large sums to build the exchange.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Cooperatives were against the law in Texas at that time.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "They had little power in the banking system they were trying to work around.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Farmers had more cash on hand than the merchants who served them.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 4",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">The Colored Farmers' Alliance was a separate group from the white Alliance. What does this fact show?</p>",
+   "answers": [
+    {
+     "text": "Black and white farmers shared debts and goals but were kept apart by custom.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Black farmers had no interest in farm reform, and the two groups had opposed each other's goals.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The two groups were opposed to each other's goals on every question.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Texas law required every farm club in the state to be mixed.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 5",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">The Populists backed William Jennings Bryan in 1896 and then faded. Which fact helps explain why the party lost strength in Texas?</p>",
+   "answers": [
+    {
+     "text": "Bryan lost Texas by a very wide margin, and most Texans turned away from the whole idea of reform.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The Alliance voted to end the People's Party in the year 1892.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Democrats such as Hogg took up Populist ideas, and the Populists had no candidate of their own.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Texas had never had a farm movement or a farmers' club of any kind.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 6",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Hogg took the railroads to court as attorney general and then promised a Railroad Commission as governor. How does this reform connect to the farmers' complaints?</p>",
+   "answers": [
+    {
+     "text": "He joined the People's Party and led it to a great victory in the elections of 1892 across Texas.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "He opposed all rules about how railroads should do their business.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "He wanted foreign companies to be allowed to own more Texas land.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "He turned complaints about rates and unfair treatment into law, though he was a Democrat.",
+     "html": "",
+     "weight": 100.0
+    }
+   ]
+  },
+  {
+   "name": "Question 7",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">In 1918 Texas women won the vote in primary elections. Why was that so important in Texas at that time?</p>",
+   "answers": [
+    {
+     "text": "The Democratic primary was the real contest, so it largely decided who won.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "No other kind of election was held anywhere in the state of Texas.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Women had already won the vote in general elections as early as 1900.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Primary elections were held only to choose judges and county officers.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  }
+ ]
+}

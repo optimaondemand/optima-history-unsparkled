@@ -1,0 +1,212 @@
+{
+ "kind": "quiz",
+ "title": "Week 32 Reading Quiz",
+ "copy_title": "Week 32 Reading Quiz (Unsparkled)",
+ "canvas_course": 275,
+ "copy_quiz_id": 6598,
+ "quiz_type": "assignment",
+ "allowed_attempts": 2,
+ "scoring_policy": "keep_highest",
+ "shuffle_answers": true,
+ "show_correct_answers": false,
+ "assignment_group_id": 617,
+ "description_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Read both lessons before you start. Choose the best answer for each question. You may take this quiz twice, and your higher score counts.</p>",
+ "questions": [
+  {
+   "name": "Question 1",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Doris Miller was a cook on the West Virginia, and the Navy did not let Black sailors serve in fighting jobs. What does his action at Pearl Harbor show?</p>",
+   "answers": [
+    {
+     "text": "The Navy had trained him as a gunner before the war began.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The Navy had already ended all of its barriers by that time.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "He was serving at the time as one of the ship's officers.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "He acted with courage far beyond the job the Navy had given him.",
+     "html": "",
+     "weight": 100.0
+    }
+   ]
+  },
+  {
+   "name": "Question 2",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Why was Texas a good place to train soldiers and pilots?</p>",
+   "answers": [
+    {
+     "text": "It had no large cities in the way, and the army found it easy to build camps there.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It had good weather, open land, and the support of Texas congressmen.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "It had no enemies of any kind anywhere in the region nearby.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It had the only airfields in the whole country at that time.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 3",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">The government built the Big Inch and Little Big Inch pipelines. What problem did they solve?</p>",
+   "answers": [
+    {
+     "text": "Texas had no oil that could be shipped to the East Coast, so the government had to build the lines.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Trains could not carry any fuel of any kind across the country.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "German submarines were sinking tankers along the coast, so shipping oil by sea was dangerous.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "The East Coast refused to buy any oil that came from Texas.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 4",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Crystal City held families of Japanese, German, and Italian descent, including some American citizens. What does this show about the war?</p>",
+   "answers": [
+    {
+     "text": "All of the families were soldiers in training.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The camp was used as a site for exchanging prisoners.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The war had a hard side, even far from the battlefield.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "The families went there to take part in training.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 5",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Soldiers from Texas trained and fought beside soldiers from every other state. What effect did the lesson say this had?</p>",
+   "answers": [
+    {
+     "text": "Many later said it made them feel American, while they still thought of themselves as Texans.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "It made many Texans stop thinking of themselves as Texans, and most of them chose to leave the state.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It had no effect on how they saw themselves or their country.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It made them much less willing to leave Texas to see the world.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 6",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Mexico refused to send braceros to Texas for several years. What reason does the lesson give?</p>",
+   "answers": [
+    {
+     "text": "How Mexican Americans and Mexican workers had been treated in Texas.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Texas had no farms that needed any workers, so Mexico saw no reason to send them there.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Mexico needed all of its own workers to stay at home.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Texas had not asked to be a part of the program.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 7",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">The lesson says the change toward national life was not something that had to happen. Which statement fits this view?</p>",
+   "answers": [
+    {
+     "text": "It was caused only by the Great Depression, and the war had nothing at all to do with it in the end.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It was planned by Texas leaders in the year 1900 and carried out.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It came from decisions by Texans and by Washington, along with a war that left no other choice.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "It happened because Texans wanted to leave the Union once more.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "kind": "quiz",
+ "title": "Week 28 Module Outro",
+ "copy_title": "Week 28 Module Outro (Unsparkled)",
+ "canvas_course": 275,
+ "copy_quiz_id": 6587,
+ "quiz_type": "survey",
+ "allowed_attempts": 1,
+ "scoring_policy": "keep_highest",
+ "shuffle_answers": false,
+ "show_correct_answers": true,
+ "assignment_group_id": null,
+ "description_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">When you have finished this week's lessons, quiz, and primary source assessment, answer these four questions. This survey is not graded. Your teacher reads the answers to see what is clear and what needs more work.</p>",
+ "questions": [
+  {
+   "name": "Essential question, revisited",
+   "type": "essay_question",
+   "points": 0.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Here is the question again: Why did the Populist movement take root in Texas? Answer it now in three or four sentences, using what you learned this week.</p>",
+   "answers": []
+  },
+  {
+   "name": "Confidence",
+   "type": "multiple_choice_question",
+   "points": 0.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">How well do you understand this week's material?</p>",
+   "answers": [
+    {
+     "text": "5: I could explain this week to a friend, with examples.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "4: I understand most of it and could explain the main events.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "3: I understand some of it, but parts are fuzzy.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "2: I understand only a little of it.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "1: I am lost and need help.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "What is still unclear",
+   "type": "essay_question",
+   "points": 0.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">What is one thing from this week that is still unclear? If everything is clear, write what you found most interesting.</p>",
+   "answers": []
+  },
+  {
+   "name": "Virtue",
+   "type": "essay_question",
+   "points": 0.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Choose one person from this week's lessons. Which of these virtues did you see in what that person did: courage, courtesy, honesty, perseverance, self-government, service, or responsibility? Name the person, the virtue, and what they did.</p>",
+   "answers": []
+  }
+ ]
+}

@@ -1,0 +1,212 @@
+{
+ "kind": "quiz",
+ "title": "Week 29 Reading Quiz",
+ "copy_title": "Week 29 Reading Quiz (Unsparkled)",
+ "canvas_course": 275,
+ "copy_quiz_id": 6589,
+ "quiz_type": "assignment",
+ "allowed_attempts": 2,
+ "scoring_policy": "keep_highest",
+ "shuffle_answers": true,
+ "show_correct_answers": false,
+ "assignment_group_id": 617,
+ "description_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Read both lessons before you start. Choose the best answer for each question. You may take this quiz twice, and your higher score counts.</p>",
+ "questions": [
+  {
+   "name": "Question 1",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Before 1900 Galveston chose not to build a seawall. Which fact from the lesson helps explain that choice?</p>",
+   "answers": [
+    {
+     "text": "Federal law did not allow seawalls on the Gulf coast, and the city had no power to build one.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The island was higher than the land around it on the mainland.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Some people said the city could not be badly hurt, and the cost seemed too high.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "A major storm had never before touched any part of the Gulf coast.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 2",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">The Weather Bureau did not expect the 1900 hurricane to strike Galveston. What helps explain the mistake?</p>",
+   "answers": [
+    {
+     "text": "It had no weather stations along the Texas coast at all, so it could not see the storm coming.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It distrusted warnings from Cuban forecasters and expected the storm to turn toward Florida.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "It had warned the people of Galveston about the storm a week earlier.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Isaac Cline was away from Galveston on the day the storm hit.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 3",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">After the storm, Galveston adopted a five-person commission to run the city, and the idea spread to hundreds of other cities. What does this show?</p>",
+   "answers": [
+    {
+     "text": "The commission plan was ordered by the federal government.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Only Galveston was allowed to use the commission plan.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The city had no government at all before 1901.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "A local disaster can lead to reforms that other places copy.",
+     "html": "",
+     "weight": 100.0
+    }
+   ]
+  },
+  {
+   "name": "Question 4",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">The seawall held in 1915, yet Galveston never regained its old place. Which pair of facts best explains this?</p>",
+   "answers": [
+    {
+     "text": "The seawall fell down in the 1915 storm, and Dallas then built a new port that took the shipping.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The railroads left the island, and Beaumont took over the cotton trade.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Insurers and banks grew nervous, and Houston's deep channel let big ships reach it directly.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "The state moved the capital, and the island sank into the Gulf.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 5",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Pattillo Higgins believed oil lay under the hill at Spindletop. What did he believe about its structure?</p>",
+   "answers": [
+    {
+     "text": "That the hill was the cone of an old volcano that had once poured out the oil.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "That the hill was the site of an old coal mine.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "That the hill covered a trail used by the Comanche.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "That the hill sat on a salt dome that trapped oil beneath it.",
+     "html": "",
+     "weight": 100.0
+    }
+   ]
+  },
+  {
+   "name": "Question 6",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">The oil from Spindletop was thick and not good for lamps, yet it still became very valuable. Why?</p>",
+   "answers": [
+    {
+     "text": "Lamps were no longer used in Texas, so the oil was burned only in the largest cities.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It could be turned into cotton fiber at the mills in Houston.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It burned well as fuel for trains, ships, and factories as engines spread.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "The government required the army to buy it for its new trucks.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 7",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Houston is inland on a shallow bayou. What did Houston's leaders do that Galveston's could not match?</p>",
+   "answers": [
+    {
+     "text": "They persuaded the federal government to help pay for a deep channel to the city.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "They moved the whole city of Houston down to the Gulf coast so that ships could reach it.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "They banned all oil refining inside the limits of the city.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "They built a high seawall around Buffalo Bayou to hold back storms.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  }
+ ]
+}

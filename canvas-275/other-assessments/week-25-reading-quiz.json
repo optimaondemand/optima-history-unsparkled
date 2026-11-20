@@ -1,0 +1,212 @@
+{
+ "kind": "quiz",
+ "title": "Week 25 Reading Quiz",
+ "copy_title": "Week 25 Reading Quiz (Unsparkled)",
+ "canvas_course": 275,
+ "copy_quiz_id": 6580,
+ "quiz_type": "assignment",
+ "allowed_attempts": 2,
+ "scoring_policy": "keep_highest",
+ "shuffle_answers": true,
+ "show_correct_answers": false,
+ "assignment_group_id": 617,
+ "description_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Read both lessons before you start. Choose the best answer for each question. You may take this quiz twice, and your higher score counts.</p>",
+ "questions": [
+  {
+   "name": "Question 1",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">The English words ranch, rodeo, corral, lariat, and mustang all come from Spanish. What does this suggest about the Texas cowboy?</p>",
+   "answers": [
+    {
+     "text": "He invented ranching without any help, and learned nothing at all from the people before him.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "He learned his trade only from German settlers.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "He first learned to ranch in the Rocky Mountains.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Much of his skill and vocabulary came from the vaquero tradition.",
+     "html": "",
+     "weight": 100.0
+    }
+   ]
+  },
+  {
+   "name": "Question 2",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Richard King bought land in South Texas and brought whole families of vaqueros from a Mexican village to work it. What does this show?</p>",
+   "answers": [
+    {
+     "text": "Anglo ranchers had no cattle of their own and had to hire vaqueros to raise any at all.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Vaqueros were forced to leave Mexico by a treaty.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Anglo ranchers relied on vaquero skill and borrowed their methods.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "The King Ranch was first a German farming village.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 3",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">German farmers in the Hill Country built stone houses and fences and raised fewer cattle on fenced land. How did they differ from open-range ranchers?</p>",
+   "answers": [
+    {
+     "text": "They raised no animals of any kind, and lived only on the grain that they grew on their land.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "They moved their herds each spring on long drives all the way to Kansas.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "They avoided building towns and kept apart from one another's farms.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "They worked smaller farms and fenced their land instead of letting herds roam.",
+     "html": "",
+     "weight": 100.0
+    }
+   ]
+  },
+  {
+   "name": "Question 4",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">J. Frank Dobie wrote books like The Longhorns. What does the lesson say he contributed?</p>",
+   "answers": [
+    {
+     "text": "He invented the cowboy hat and the rope, and taught the vaqueros how to use them on the range.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "He taught the vaqueros how to rope and brand cattle on the range.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "He wrote down the stories of old ranch hands so later readers could learn them.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "He founded the Texas Rangers in the 1820s with Stephen F. Austin.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 5",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Raiding parties usually vanished before Rangers arrived, even when the Rangers camped near a settlement. What does this suggest?</p>",
+   "answers": [
+    {
+     "text": "The Rangers had no horses at all, and could patrol only on foot in the country near the forts.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The frontier was huge, and raiders who knew the ground could move faster than the Rangers.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "The raiders had no reason to flee because Rangers never gave chase.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The settlers never reported any thefts to the Rangers or to anyone else.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 6",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Many Texas slaveholders demanded that Mexico return enslaved people who crossed the Rio Grande, and Mexico refused. What fact explains Mexico's refusal?</p>",
+   "answers": [
+    {
+     "text": "Mexico had no army to send to the border.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The treaty of 1848 required Mexico to refuse.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Slavery was against the law in Mexico.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "The Rio Grande was not yet a border between the countries.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 7",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Many Tejanos saw Juan Cortina as a defender, while many Texans saw him as a bandit. Which fact helps explain the Tejano view?</p>",
+   "answers": [
+    {
+     "text": "Many Tejano families had lost land to lawyers, taxes, or threats, and thought it unfair.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Cortina had once been a Texas Ranger captain, and many Texans trusted him to protect the frontier.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Cortina wanted Texas to leave the Union and join Mexico in 1859.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Cortina refused to fight at all when he reached the town of Brownsville.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,184 @@
+{
+ "kind": "quiz",
+ "title": "Week 19 Reading Quiz",
+ "copy_title": "Week 19 Reading Quiz (Unsparkled)",
+ "canvas_course": 275,
+ "copy_quiz_id": 6557,
+ "quiz_type": "assignment",
+ "allowed_attempts": 2,
+ "scoring_policy": "keep_highest",
+ "shuffle_answers": true,
+ "show_correct_answers": false,
+ "assignment_group_id": 617,
+ "description_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Read both lessons before you start. Choose the best answer for each question. You may take this quiz twice, and your higher score counts.</p>",
+ "questions": [
+  {
+   "name": "Question 1",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Mexican leaders refused to receive John Slidell, and President Herrera was overthrown partly because people thought he would talk. Which conclusion about Mexican politics in 1845 is best supported?</p>",
+   "answers": [
+    {
+     "text": "A Mexican leader who seemed ready to accept the Río Grande border could be attacked at home.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Mexican leaders were eager for war and saw no value in any money offered for land.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Mexico's leaders were sure the United States would never send an army to the border.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Most Mexican voters wanted their government to sell California to the United States quickly.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 2",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">General Taylor marched to the Río Grande in 1846 and built a fort across from Matamoros. How would Mexican officers most likely have described this move?</p>",
+   "answers": [
+    {
+     "text": "A friendly visit meant to protect Texas settlers from raids.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "A retreat from the disputed strip back toward Corpus Christi.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "An American army entering land that Mexico claimed as its own.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "A trade mission to the Mexican city of Matamoros.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 3",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Congressman Abraham Lincoln later asked President Polk to name the exact spot where American blood had been shed. What was Lincoln really questioning?</p>",
+   "answers": [
+    {
+     "text": "Whether the American soldiers who died had been killed by Mexican troops or by accident.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Whether the fight had taken place on land that truly belonged to the United States.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Whether Congress had the power to declare war without the President.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Whether Mexico had a standing army able to threaten Texas.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 4",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Jack Hays and Samuel Walker led Texas Rangers in the army. Which fact best explains why army officers valued them as scouts?</p>",
+   "answers": [
+    {
+     "text": "They rode fast, shot well from horseback, and Walker knew Mexico from being held prisoner there.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "They had been trained for years in the army's engineering school and knew how to build bridges and forts.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "They were the only soldiers in the army who could speak Spanish fluently.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "They had never fought in a battle before the war with Mexico began.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 5",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">After Taylor's victories at Monterrey and Buena Vista, Polk still sent a second army under Winfield Scott to Veracruz. What best explains the decision?</p>",
+   "answers": [
+    {
+     "text": "Taylor had been defeated at Buena Vista, and Polk needed a second army to rescue him from Santa Anna.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Mexico's leaders still refused to give up land, so Polk chose to strike at the capital.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Congress had ordered Polk to bring the war to an end by the spring.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Scott wanted to protect the Texas frontier from Comanche raids.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 6",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Under the Compromise of 1850, Texas gave up claims to land around Santa Fe and received $10 million. What does this show about Texas after 1845?</p>",
+   "answers": [
+    {
+     "text": "Texas could keep settling its borders and its debts on its own without ever turning to the national government.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Texas had been forced out of the United States over its western claims.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Texas no longer had any debts and no longer claimed the Río Grande.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Questions about its boundaries and debts were now settled through the national government.",
+     "html": "",
+     "weight": 100.0
+    }
+   ]
+  }
+ ]
+}

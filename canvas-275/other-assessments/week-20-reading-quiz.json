@@ -1,0 +1,212 @@
+{
+ "kind": "quiz",
+ "title": "Week 20 Reading Quiz",
+ "copy_title": "Week 20 Reading Quiz (Unsparkled)",
+ "canvas_course": 275,
+ "copy_quiz_id": 6565,
+ "quiz_type": "assignment",
+ "allowed_attempts": 2,
+ "scoring_policy": "keep_highest",
+ "shuffle_answers": true,
+ "show_correct_answers": false,
+ "assignment_group_id": 617,
+ "description_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Read both lessons before you start. Choose the best answer for each question. You may take this quiz twice, and your higher score counts.</p>",
+ "questions": [
+  {
+   "name": "Question 1",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Calhoun argued that the states made the Union like an agreement among separate parties. Which statement would Calhoun most likely agree with?</p>",
+   "answers": [
+    {
+     "text": "A state may refuse to obey a national law that it believes breaks the Constitution.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "The United States is one nation, and no single state may overrule the whole country.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Only the President can decide whether a law is allowed by the Constitution.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "States must always obey Congress, even when a tariff hurts their own farmers.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 2",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">In the 1850s the number of enslaved people in Texas grew very fast as cotton farming spread west. Which conclusion best explains why Texans watched the national fight over slavery so closely?</p>",
+   "answers": [
+    {
+     "text": "A large part of the state's wealth was tied to slavery and cotton.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Texas had no connection to the new lands being added in the West.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Most Texans were abolitionists who wanted Congress to take action.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Texas was a free state that feared the power of the South.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 3",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Many white Southerners were horrified by John Brown's raid, even though it failed in two days. What best explains their reaction?</p>",
+   "answers": [
+    {
+     "text": "They thought Brown had acted for the Southern states and that Southern leaders had planned the raid.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "They thought Brown had acted on behalf of the Southern states.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "They hoped the raid would help Lincoln win the coming election.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "They feared that many Northerners wanted slave revolts and would excuse them.",
+     "html": "",
+     "weight": 100.0
+    }
+   ]
+  },
+  {
+   "name": "Question 4",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Lincoln won the presidency in 1860 with fewer than 40 of every 100 votes. Which two facts from the lesson explain how that was possible?</p>",
+   "answers": [
+    {
+     "text": "Texas voted for him, and the Democratic Party was united behind one candidate.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "He won every Southern state, and the Supreme Court declared him the winner.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "He ran without any opponents, and the Senate chose him as president.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The vote was split four ways, and the Northern states had more electoral votes.",
+     "html": "",
+     "weight": 100.0
+    }
+   ]
+  },
+  {
+   "name": "Question 5",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Sam Houston owned enslaved people and defended slavery, yet he opposed secession. What was his main argument?</p>",
+   "answers": [
+    {
+     "text": "Slavery was wrong and had to be ended in Texas at once.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Leaving the Union would bring a long war, and Texas would lose it.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "The Declaration of Causes was too short to explain the decision.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Texas had no right to join the Confederacy as a new state.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 6",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">The convention voted 166 to 8, but only about three of every four voters said yes in the later referendum, and some places, such as the German settlements, voted no. What can be concluded?</p>",
+   "answers": [
+    {
+     "text": "Texas voters were unanimous that the state should leave the Union.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Secession was never put to a popular vote of any kind.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Texans were not all of one mind about secession.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Only the Hill Country opposed leaving the United States.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 7",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Texas leaders often spoke of states' rights, but the Declaration of Causes named one issue again and again. What does this suggest about the main cause of secession?</p>",
+   "answers": [
+    {
+     "text": "The Tariff of 1828 and the cost of imported goods.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Slavery and the threat to its spread into new land.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "A dispute with Mexico over the Río Grande border.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The cost of keeping up the forts along the frontier.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  }
+ ]
+}

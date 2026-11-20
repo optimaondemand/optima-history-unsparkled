@@ -1,0 +1,212 @@
+{
+ "kind": "quiz",
+ "title": "Week 21 Reading Quiz",
+ "copy_title": "Week 21 Reading Quiz (Unsparkled)",
+ "canvas_course": 275,
+ "copy_quiz_id": 6568,
+ "quiz_type": "assignment",
+ "allowed_attempts": 2,
+ "scoring_policy": "keep_highest",
+ "shuffle_answers": true,
+ "show_correct_answers": false,
+ "assignment_group_id": 617,
+ "description_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Read both lessons before you start. Choose the best answer for each question. You may take this quiz twice, and your higher score counts.</p>",
+ "questions": [
+  {
+   "name": "Question 1",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">The 1st Texas lost more than 80 of every 100 men at Antietam in a single day. What can you infer about how Lee used the Texans?</p>",
+   "answers": [
+    {
+     "text": "He gave them some of the hardest and most dangerous fighting.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "He kept them in reserve far from the fighting and used them to guard supplies.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "He used them only to guard the army's supply wagons.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "He sent them home before the main fighting began.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 2",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">At the Wilderness the Texans shouted \"Lee to the rear!\" and refused to charge until he went back. What does this show?</p>",
+   "answers": [
+    {
+     "text": "The soldiers trusted Lee and did not want to lose him.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "The soldiers wanted to give up the fight and were trying to send Lee home.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The soldiers had stopped obeying every order.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Lee had little experience leading men in battle.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 3",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">John Bell Hood was a fine brigade leader but lost most of the Army of Tennessee in failed attacks. Which statement best fits the lesson?</p>",
+   "answers": [
+    {
+     "text": "Hood was never brave enough to lead men into battle when under fire.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Hood refused to attack at Atlanta, Franklin, or Nashville and was relieved.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Hood's army was larger than any army that the Union had in the field.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Daring that works for a brigade can be dangerous in command of a whole army.",
+     "html": "",
+     "weight": 100.0
+    }
+   ]
+  },
+  {
+   "name": "Question 4",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Texas cotton was hauled to Brownsville and across the Río Grande to Matamoros. Why did this route work for the Confederacy?</p>",
+   "answers": [
+    {
+     "text": "Matamoros was a Confederate port, and Texas troops guarded the whole of its harbor against the Union.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The Union army had built and guarded the road to the river crossing.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Mexico was neutral, so ships of other countries could dock there despite the blockade.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Texas ports had never shipped any cotton before the war began in 1861.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 5",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Under the first plan for Reconstruction, Texas passed Black Codes in 1866. Why did Congress take over the plan?</p>",
+   "answers": [
+    {
+     "text": "Black Texans had asked Congress to close the new schools and to send the army home again.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Congress and many Northerners saw the Black Codes as slavery under another name.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Texas had refused to hold any elections after the war.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "President Johnson wanted the army to run every state government.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 6",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Governor Davis asked President Grant to send soldiers in 1874, and Grant refused. Why would holding Davis in office by force have been hard?</p>",
+   "answers": [
+    {
+     "text": "Davis had no enemies left among the people of the state of Texas.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Grant had no soldiers available anywhere in the whole country at the time.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The Freedmen's Bureau had asked Davis to step down from the governor's office.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Davis had lost by a wide margin, and many white Texans would have fought the army.",
+     "html": "",
+     "weight": 100.0
+    }
+   ]
+  },
+  {
+   "name": "Question 7",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">According to the lesson, what did freedpeople do after the Union army announced freedom in Texas?</p>",
+   "answers": [
+    {
+     "text": "Many searched for family and built churches and schools, though most received no land.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Most were given small farms by the Freedmen's Bureau and soon left cotton farming for good.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Nearly all stayed on the same farms under the same old terms.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Most left Texas at once and crossed the river into Mexico.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  }
+ ]
+}

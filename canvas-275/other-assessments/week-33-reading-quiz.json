@@ -1,0 +1,212 @@
+{
+ "kind": "quiz",
+ "title": "Week 33 Reading Quiz",
+ "copy_title": "Week 33 Reading Quiz (Unsparkled)",
+ "canvas_course": 275,
+ "copy_quiz_id": 6601,
+ "quiz_type": "assignment",
+ "allowed_attempts": 2,
+ "scoring_policy": "keep_highest",
+ "shuffle_answers": true,
+ "show_correct_answers": false,
+ "assignment_group_id": 617,
+ "description_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Read both lessons before you start. Choose the best answer for each question. You may take this quiz twice, and your higher score counts.</p>",
+ "questions": [
+  {
+   "name": "Question 1",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Which combination best explains why mass growth in the Sunbelt became possible after World War II?</p>",
+   "answers": [
+    {
+     "text": "Air conditioning that made summers livable, along with cheap land and low taxes.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Cooler summers across the whole state, along with higher taxes on every business that came to Texas.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The end of the oil industry, along with the closing of the bases.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Higher rainfall across the plains, along with the creation of new rivers.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 2",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">In 1940 most Texans lived on farms and in small towns, and by 1950 more lived in cities. What does this show?</p>",
+   "answers": [
+    {
+     "text": "Texas changed from a mostly rural state to an urban one within a decade.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Texas had fewer people living in the state in 1950 than it had had in the year 1940.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The cities of Texas had stopped growing and had begun to shrink.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Farming came to an end in the state of Texas after the war.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 3",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">San Antonio grew more slowly and with less wealth than Houston or Dallas. Which strength does the lesson give for San Antonio?</p>",
+   "answers": [
+    {
+     "text": "Oil refineries along a deep channel that led to the Gulf of Mexico.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Aircraft factories that employed many thousands of workers in the city.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The military bases, along with its history and its Mexican American culture.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "A deep-water port on the Gulf that was open to ocean ships.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 4",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Why did the University of Texas and Texas A&amp;M have a special advantage when they grew after the war?</p>",
+   "answers": [
+    {
+     "text": "The federal government paid all of their costs for many decades, so they never needed any other money.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "They charged no fees at all to students who came from other states.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Public land in West Texas set aside for them earned large sums when oil was found there.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "They received a share of the money earned by Houston's medical center.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 5",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Why did the Supreme Court rule in Sweatt v. Painter that the separate law school was not equal?</p>",
+   "answers": [
+    {
+     "text": "It was too far away from the city of Houston for most students, and it had no real library.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It had too many students for the few rooms that it was given.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It cost far more to attend than the University of Texas Law School.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It could not give the same education, with the same teachers, library, and standing.",
+     "html": "",
+     "weight": 100.0
+    }
+   ]
+  },
+  {
+   "name": "Question 6",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">The GI Forum took up the case of Felix Longoria. What did the case show?</p>",
+   "answers": [
+    {
+     "text": "The Forum could change the laws of Texas on its own authority, and it did so after the Longoria case.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The army refused to bury any soldiers who were killed overseas.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "A soldier killed in the war could still be refused a funeral because he was Mexican American.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Longoria had asked for a separate cemetery for Mexican American soldiers.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 7",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Hernandez v. Texas reached the Supreme Court in 1954. What did the Court decide?</p>",
+   "answers": [
+    {
+     "text": "Only white and Black people were protected by the Fourteenth Amendment, so Mexican Americans had no claim.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The Constitution protects Mexican Americans from being kept off juries because of their background.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "Every Texas jury from then on had to include a Mexican American member.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Pete Hernandez had to go free because the Court found that he was innocent.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  }
+ ]
+}

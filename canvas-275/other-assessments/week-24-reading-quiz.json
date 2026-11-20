@@ -1,0 +1,212 @@
+{
+ "kind": "quiz",
+ "title": "Week 24 Reading Quiz",
+ "copy_title": "Week 24 Reading Quiz (Unsparkled)",
+ "canvas_course": 275,
+ "copy_quiz_id": 6577,
+ "quiz_type": "assignment",
+ "allowed_attempts": 2,
+ "scoring_policy": "keep_highest",
+ "shuffle_answers": true,
+ "show_correct_answers": false,
+ "assignment_group_id": 617,
+ "description_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Read both lessons before you start. Choose the best answer for each question. You may take this quiz twice, and your higher score counts.</p>",
+ "questions": [
+  {
+   "name": "Question 1",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">The Comanche were a family of bands, and each band chose its own leaders. Why did this make treaties difficult?</p>",
+   "answers": [
+    {
+     "text": "Comanche leaders refused to speak with any Texans at all.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "There was only one chief who spoke for every band.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "A promise made by one band did not bind the other bands.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "The Comanche had no settled homeland to defend.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 2",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">The horse changed Comanche life. Which result does the lesson describe?</p>",
+   "answers": [
+    {
+     "text": "The Comanche gave up hunting bison and began to farm the plains, which kept them near their camps.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The Comanche moved back to the Rocky Mountains and never returned to Texas.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Texans gave the Comanche their first horses in the year 1840 as gifts.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Riders could follow bison for hundreds of miles and strike a ranch before help arrived.",
+     "html": "",
+     "weight": 100.0
+    }
+   ]
+  },
+  {
+   "name": "Question 3",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Meusebach's 1847 treaty with Penateka leaders did not bring peace to the whole frontier. Why not?</p>",
+   "answers": [
+    {
+     "text": "It covered only the Penateka and a small area, and other bands were not part of it.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "The Germans broke the treaty within a week, and the Comanche then refused to speak with Texans again.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The Comanche had no interest in making any treaty with anyone at all.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The treaty was never signed by either side, so it never took effect.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 4",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Texans said that army forts did not protect them well, so they kept the Rangers. What fact from the lesson supports this view?</p>",
+   "answers": [
+    {
+     "text": "The forts had all been closed by the army in 1848, so Texans had to defend themselves alone.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The forts were far apart, and soldiers on foot rarely caught Comanche riders.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "The Rangers were paid much more than the regular soldiers were.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The Comanche never attacked any settlement that stood near a fort.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 5",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Why did the Colt revolver matter at Walker's Creek in 1844?</p>",
+   "answers": [
+    {
+     "text": "It could shoot far enough to outrange any rifle then in use, so the Comanche could not get near.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It frightened the Comanche, who had never before seen a gun of any kind.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It was the first firearm that anyone had ever used in the state of Texas.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The Rangers could fire again and again from horseback instead of stopping to reload.",
+     "html": "",
+     "weight": 100.0
+    }
+   ]
+  },
+  {
+   "name": "Question 6",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Rangers captured Cynthia Ann Parker at the Pease River in 1860. What does the lesson say the fight shows?</p>",
+   "answers": [
+    {
+     "text": "How hard it was to tell a camp of warriors from a camp of families.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "That the Comanche had given up raiding, and that Rangers never harmed any civilians.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "That Rangers always took care to avoid harming civilians.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "That the army alone defended the frontier by then.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 7",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Comancheros traded bread, tools, and cloth for horses and cattle. How did that trade help the Comanche?</p>",
+   "answers": [
+    {
+     "text": "It forced them to stop raiding Texas ranches and to depend on the traders for food.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It made them depend on Texas merchants for food.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It replaced hunting bison as their main source of food.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It gave them goods and a market for animals, many taken in raids.",
+     "html": "",
+     "weight": 100.0
+    }
+   ]
+  }
+ ]
+}

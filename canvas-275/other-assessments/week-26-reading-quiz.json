@@ -1,0 +1,212 @@
+{
+ "kind": "quiz",
+ "title": "Week 26 Reading Quiz",
+ "copy_title": "Week 26 Reading Quiz (Unsparkled)",
+ "canvas_course": 275,
+ "copy_quiz_id": 6583,
+ "quiz_type": "assignment",
+ "allowed_attempts": 2,
+ "scoring_policy": "keep_highest",
+ "shuffle_answers": true,
+ "show_correct_answers": false,
+ "assignment_group_id": 617,
+ "description_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Read both lessons before you start. Choose the best answer for each question. You may take this quiz twice, and your higher score counts.</p>",
+ "questions": [
+  {
+   "name": "Question 1",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">When Texas joined the Confederacy, the army left the frontier forts and most Texas fighting men went east. What was one result?</p>",
+   "answers": [
+    {
+     "text": "Comanche and Kiowa raiders gained a few years of strength they had not had in a decade.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "The Comanche signed a treaty with Texas and ended all of their raids while the army was gone.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The frontier line moved steadily farther west as settlers pushed ahead.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The bison herds grew larger across the southern plains during the war.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 2",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">The Quahadi did not sign the Medicine Lodge treaty of 1867. What does this fact help explain?</p>",
+   "answers": [
+    {
+     "text": "Why the Army never fought the Quahadi at any time in the Red River War or in the years after.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Why Quanah Parker never took part in any war party or battle.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Why bison hunters left Texas before the great herds were gone in the 1870s.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Why some Comanche stayed free on the Llano Estacado after others agreed to a reservation.",
+     "html": "",
+     "weight": 100.0
+    }
+   ]
+  },
+  {
+   "name": "Question 3",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">The army was glad when hunters killed the southern bison herds. What does that tell you about its strategy?</p>",
+   "answers": [
+    {
+     "text": "The army wanted to feed its soldiers on bison meat during the winter.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The army wanted the hunters kept safe from raiding parties on the plains.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Without bison, the Plains peoples could no longer live as they had.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "The army wanted the hides to make new coats and uniforms for its men.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 4",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">Mackenzie's men captured about 1,400 horses at Palo Duro Canyon and shot most of them. Why was this so damaging?</p>",
+   "answers": [
+    {
+     "text": "Horses were the only food that the Comanche had, and the army wanted to starve them out.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The horses had belonged to Texan ranchers.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The Rangers had asked for the horses to be destroyed.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "Without horses, a Plains people could not hunt or move camp.",
+     "html": "",
+     "weight": 100.0
+    }
+   ]
+  },
+  {
+   "name": "Question 5",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">The lesson says that in the Red River War the main force against the Comanche was the U.S. Army, though the Rangers took part. Which detail supports this?</p>",
+   "answers": [
+    {
+     "text": "The Rangers fought at Palo Duro Canyon without any help from the army.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The Army never entered Texas at any point during the Red River War.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The Army marched from several directions under officers such as Mackenzie.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "The Frontier Battalion was created only after the war had come to an end.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 6",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">After 1875, the Rangers' Frontier Battalion hunted outlaws such as Sam Bass instead of raiders. What does this show?</p>",
+   "answers": [
+    {
+     "text": "The Rangers were disbanded by the legislature after the Comanche were beaten.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The Rangers' work turned toward law enforcement once the raiding frontier closed.",
+     "html": "",
+     "weight": 100.0
+    },
+    {
+     "text": "The Comanche had become outlaws themselves and were hunted as criminals.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "The Rangers had left Texas for good and moved north into Kansas.",
+     "html": "",
+     "weight": 0.0
+    }
+   ]
+  },
+  {
+   "name": "Question 7",
+   "type": "multiple_choice_question",
+   "points": 1.0,
+   "text_html": "<p style=\"font-size: 17px; color: #1a2340; line-height: 1.65; margin: 0 0 10px 0;\">The windmill spread across the plains in the 1880s. Why did it matter for ranching on the Llano Estacado?</p>",
+   "answers": [
+    {
+     "text": "It kept the bison herds away from the cattle on the open grass, so that more grass was left.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It cut the cost of barbed wire for every rancher on the plains.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It took the place of the railroads for hauling cattle across the plains.",
+     "html": "",
+     "weight": 0.0
+    },
+    {
+     "text": "It pumped water from underground, so ranchers no longer had to stay near a river.",
+     "html": "",
+     "weight": 100.0
+    }
+   ]
+  }
+ ]
+}
