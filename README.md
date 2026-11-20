@@ -9,14 +9,14 @@ Each file is the newest pre-sparkle version in the `optima-history` commit histo
 | File | Source | Date |
 |---|---|---|
 | texas-annexation-reconstruction/president-polk-and-the-nueces-crisis.html | commit aaf7ec2 | 2026-10-07 |
-| texas-annexation-reconstruction/ranches-raids-and-the-rangers.html | commit b65da44 | 2026-11-13 |
-| texas-annexation-reconstruction/vaqueros-and-cowboys.html | commit b65da44 | 2026-11-13 |
+| texas-annexation-reconstruction/ranches-raids-and-the-rangers.html | course source copy `_tools/w25_src` (the post-widget-swap version) | 2026-11-13 |
+| texas-annexation-reconstruction/vaqueros-and-cowboys.html | course source copy `_tools/w25_src` (the post-widget-swap version) | 2026-11-13 |
 | american-west/the-open-range-and-the-great-cattle-drives.html | regenerated from current source | 2026-11-20 |
 | texas-1876-1941/cattle-barons-and-the-closing-of-the-range.html | regenerated from current source | 2026-11-20 |
 | texas-wwii-postwar/austin-becomes-a-tech-town.html | commit 1a964f4 | 2026-11-18 |
 | texas-wwii-postwar/austin-s-live-music-and-cultural-scene.html | commit 86ea168 | 2026-11-18 |
 
-Note: the 2026-10-07 repo versions of the two Week 27 lessons held an older, shorter draft (about 800 words each). They were edited in place on 2026-11-20 and regenerated as plain pages from the current course source (`w27_l1.py`, `w27_l2.py`, `wid_w27.py`), so they carry the same text (about 2,200 words) and the same 8 widgets as the sparkled pages. Week 25 widgets differ slightly from the sparkled pages (some widgets were swapped when sparkling).
+Note: the 2026-10-07 repo versions of the two Week 27 lessons held an older, shorter draft (about 800 words each). They were edited in place on 2026-11-20 and regenerated as plain pages from the current course source (`w27_l1.py`, `w27_l2.py`, `wid_w27.py`), so they carry the same text (about 2,200 words) and the same 8 widgets as the sparkled pages. The two Week 25 lessons were edited in place on 2026-11-20 from the course's `w25_src` copies, which hold the widgets as swapped on 2026-11-13; they have the same text and the same widget set as the sparkled pages.
 
 ## Spring semester (Weeks 19-36), added 2026-11-20 (Weeks 19-36), added 2026-11-20
 
